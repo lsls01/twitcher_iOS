@@ -15,31 +15,34 @@ import SwiftyJSON
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
     var window: UIWindow?
-    let dataStack = DataStack(modelName:"Birds")
+    let dataStack = DataStack(modelName:"BirdsModel")
     
     private func readJson(){
         do {
-            if let file = Bundle.main.url(forResource: "birds", withExtension: "json") {
-                let data = try Data(contentsOf: file)
-                //let json = try JSONSerialization.jsonObject(with: data, options: [])
-                let json = try JSONSerialization.jsonObject(with: data) as? [String: Any]
-                self.dataStack.sync(json, inEntityNamed: "User") { error in
-                    // New objects have been inserted
-                    // Existing objects have been updated
-                    // And not found objects have been deleted
-                }
-                if let object = json as? [String: Any] {
-                    // json is a dictionary
-                    print(object)
-                } else if let object = json as? [Any] {
-                    // json is an array
-                    print(object)
-                } else {
-                    print("JSON is invalid")
-                }
-            } else {
-                print("no file")
+            let file = Bundle.main.url(forResource: "birds", withExtension: "json")!
+            let data = try Data(contentsOf: file)
+            //let json = try JSONSerialization.jsonObject(with: data, options: [])
+            let json = try JSONSerialization.jsonObject(with: data)
+            print(json)
+            /*
+            self.dataStack.sync(json as! [[String : Any]], inEntityNamed: "Birds") { error in
+                // New objects have been inserted
+                // Existing objects have been updated
+                // And not found objects have been deleted
             }
+ */
+            
+            /*
+             if let object = json as? [String: Any] {
+             // json is a dictionary
+             print(object)
+             } else if let object = json as? [Any] {
+             // json is an array
+             print(object)
+             } else {
+             print("JSON is invalid")
+             }
+             */
         } catch {
             print(error.localizedDescription)
         }
@@ -94,7 +97,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
          */
-        let container = NSPersistentContainer(name: "twitcher_iOS")
+        let container = NSPersistentContainer(name: "BirdsModel")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

@@ -11,7 +11,7 @@
 		048EA0BF1E9F50DD0097BE2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0BE1E9F50DD0097BE2C /* AppDelegate.swift */; };
 		048EA0C11E9F50DD0097BE2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0C01E9F50DD0097BE2C /* ViewController.swift */; };
 		048EA0C41E9F50DD0097BE2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0C21E9F50DD0097BE2C /* Main.storyboard */; };
-		048EA0C71E9F50DD0097BE2C /* twitcher_iOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0C51E9F50DD0097BE2C /* twitcher_iOS.xcdatamodeld */; };
+		048EA0C71E9F50DD0097BE2C /* BirdsModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */; };
 		048EA0C91E9F50DD0097BE2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0C81E9F50DD0097BE2C /* Assets.xcassets */; };
 		048EA0CC1E9F50DD0097BE2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0CA1E9F50DD0097BE2C /* LaunchScreen.storyboard */; };
 		048EA0D71E9F50DD0097BE2C /* twitcher_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0D61E9F50DD0097BE2C /* twitcher_iOSTests.swift */; };
@@ -43,7 +43,7 @@
 		048EA0BE1E9F50DD0097BE2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		048EA0C01E9F50DD0097BE2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		048EA0C31E9F50DD0097BE2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		048EA0C61E9F50DD0097BE2C /* twitcher_iOS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = twitcher_iOS.xcdatamodel; sourceTree = "<group>"; };
+		048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BirdsModel.xcdatamodel; sourceTree = "<group>"; };
 		048EA0C81E9F50DD0097BE2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		048EA0CB1E9F50DD0097BE2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		048EA0CD1E9F50DD0097BE2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -150,7 +150,7 @@
 				048EA0C81E9F50DD0097BE2C /* Assets.xcassets */,
 				048EA0CA1E9F50DD0097BE2C /* LaunchScreen.storyboard */,
 				048EA0CD1E9F50DD0097BE2C /* Info.plist */,
-				048EA0C51E9F50DD0097BE2C /* twitcher_iOS.xcdatamodeld */,
+				048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -310,7 +310,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				048EA0C71E9F50DD0097BE2C /* twitcher_iOS.xcdatamodeld in Sources */,
+				048EA0C71E9F50DD0097BE2C /* BirdsModel.xcdatamodeld in Sources */,
 				048EA0C11E9F50DD0097BE2C /* ViewController.swift in Sources */,
 				048EA0BF1E9F50DD0097BE2C /* AppDelegate.swift in Sources */,
 			);
@@ -590,13 +590,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		048EA0C51E9F50DD0097BE2C /* twitcher_iOS.xcdatamodeld */ = {
+		048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				048EA0C61E9F50DD0097BE2C /* twitcher_iOS.xcdatamodel */,
+				048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */,
 			);
-			currentVersion = 048EA0C61E9F50DD0097BE2C /* twitcher_iOS.xcdatamodel */;
-			path = twitcher_iOS.xcdatamodeld;
+			currentVersion = 048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */;
+			path = BirdsModel.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
