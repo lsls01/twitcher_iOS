@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		041B889B1E9F521700C41734 /* Sync.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041B889A1E9F521700C41734 /* Sync.framework */; };
-		0471C9AC1EA4C0E100D64DBC /* birds.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A81EA4C0E100D64DBC /* birds.json */; };
+		0471C9AC1EA4C0E100D64DBC /* bird.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A81EA4C0E100D64DBC /* bird.json */; };
 		0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A91EA4C0E100D64DBC /* colour.json */; };
 		0471C9AE1EA4C0E100D64DBC /* location.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9AA1EA4C0E100D64DBC /* location.json */; };
 		0471C9AF1EA4C0E100D64DBC /* voice.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9AB1EA4C0E100D64DBC /* voice.json */; };
@@ -42,7 +42,7 @@
 
 /* Begin PBXFileReference section */
 		041B889A1E9F521700C41734 /* Sync.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sync.framework; path = Carthage/Build/iOS/Sync.framework; sourceTree = "<group>"; };
-		0471C9A81EA4C0E100D64DBC /* birds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = birds.json; sourceTree = "<group>"; };
+		0471C9A81EA4C0E100D64DBC /* bird.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bird.json; sourceTree = "<group>"; };
 		0471C9A91EA4C0E100D64DBC /* colour.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colour.json; sourceTree = "<group>"; };
 		0471C9AA1EA4C0E100D64DBC /* location.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = location.json; sourceTree = "<group>"; };
 		0471C9AB1EA4C0E100D64DBC /* voice.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = voice.json; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		0471C9A71EA4A0F800D64DBC /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				0471C9A81EA4C0E100D64DBC /* birds.json */,
+				0471C9A81EA4C0E100D64DBC /* bird.json */,
 				0471C9A91EA4C0E100D64DBC /* colour.json */,
 				0471C9AA1EA4C0E100D64DBC /* location.json */,
 				0471C9AB1EA4C0E100D64DBC /* voice.json */,
@@ -284,7 +284,7 @@
 				048EA0CC1E9F50DD0097BE2C /* LaunchScreen.storyboard in Resources */,
 				0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */,
 				048EA0C91E9F50DD0097BE2C /* Assets.xcassets in Resources */,
-				0471C9AC1EA4C0E100D64DBC /* birds.json in Resources */,
+				0471C9AC1EA4C0E100D64DBC /* bird.json in Resources */,
 				0471C9AE1EA4C0E100D64DBC /* location.json in Resources */,
 				048EA0C41E9F50DD0097BE2C /* Main.storyboard in Resources */,
 				0471C9AF1EA4C0E100D64DBC /* voice.json in Resources */,

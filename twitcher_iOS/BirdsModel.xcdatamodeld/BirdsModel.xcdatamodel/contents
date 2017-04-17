@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16E195" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="Birds">
-    <entity name="Birds" representedClassName=".Birds" syncable="YES" codeGenerationType="class">
+    <entity name="Bird" representedClassName=".Birds" syncable="YES" codeGenerationType="class">
         <attribute name="binomial" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="common_name" optional="YES" attributeType="String" syncable="YES"/>
@@ -19,11 +19,11 @@
         <attribute name="colour1" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="colour2" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="colour3" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
     </entity>
     <entity name="Location" representedClassName="Location" syncable="YES" codeGenerationType="class">
         <attribute name="act" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="na" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="nsw" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="qld" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
@@ -33,14 +33,14 @@
         <attribute name="wa" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
     </entity>
     <entity name="Voice" representedClassName="Voice" syncable="YES" codeGenerationType="class">
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="local" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="voice" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Birds" positionX="-63" positionY="-18" width="128" height="240"/>
-        <element name="Location" positionX="-63" positionY="135" width="128" height="180"/>
-        <element name="Colour" positionX="-54" positionY="144" width="128" height="105"/>
-        <element name="Voice" positionX="-36" positionY="144" width="128" height="90"/>
+        <element name="Bird" positionX="-63" positionY="-18" width="128" height="240"/>
+        <element name="Colour" positionX="-54" positionY="144" width="128" height="30"/>
+        <element name="Location" positionX="-63" positionY="135" width="128" height="30"/>
+        <element name="Voice" positionX="-36" positionY="144" width="128" height="30"/>
     </elements>
 </model>

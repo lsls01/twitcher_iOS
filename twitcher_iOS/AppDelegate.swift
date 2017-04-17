@@ -17,8 +17,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     let dataStack = DataStack(modelName:"BirdsModel")
     
-    
-    
     private func readJson(fileName:String, entityName:String){
         do {
             let file = Bundle.main.url(forResource: fileName, withExtension: "json")!
@@ -36,10 +34,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
     }
     
-    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        readJson(fileName: "birds", entityName: "Birds")
+        readJson(fileName: "birds", entityName: "Bird")
         readJson(fileName: "location", entityName: "Location")
         readJson(fileName: "voice", entityName: "Voice")
         readJson(fileName: "colour", entityName: "Colour")
