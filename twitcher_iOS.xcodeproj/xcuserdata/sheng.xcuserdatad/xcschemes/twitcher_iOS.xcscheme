@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042A181C1E8CA30300E7A909"
+               BlueprintIdentifier = "048EA0BA1E9F50DC0097BE2C"
                BuildableName = "twitcher_iOS.app"
                BlueprintName = "twitcher_iOS"
                ReferencedContainer = "container:twitcher_iOS.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042A18331E8CA30300E7A909"
+               BlueprintIdentifier = "048EA0D11E9F50DD0097BE2C"
                BuildableName = "twitcher_iOSTests.xctest"
                BlueprintName = "twitcher_iOSTests"
                ReferencedContainer = "container:twitcher_iOS.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042A183E1E8CA30300E7A909"
+               BlueprintIdentifier = "048EA0DC1E9F50DD0097BE2C"
                BuildableName = "twitcher_iOSUITests.xctest"
                BlueprintName = "twitcher_iOSUITests"
                ReferencedContainer = "container:twitcher_iOS.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "042A181C1E8CA30300E7A909"
+            BlueprintIdentifier = "048EA0BA1E9F50DC0097BE2C"
             BuildableName = "twitcher_iOS.app"
             BlueprintName = "twitcher_iOS"
             ReferencedContainer = "container:twitcher_iOS.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "042A181C1E8CA30300E7A909"
+            BlueprintIdentifier = "048EA0BA1E9F50DC0097BE2C"
             BuildableName = "twitcher_iOS.app"
             BlueprintName = "twitcher_iOS"
             ReferencedContainer = "container:twitcher_iOS.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "042A181C1E8CA30300E7A909"
+            BlueprintIdentifier = "048EA0BA1E9F50DC0097BE2C"
             BuildableName = "twitcher_iOS.app"
             BlueprintName = "twitcher_iOS"
             ReferencedContainer = "container:twitcher_iOS.xcodeproj">

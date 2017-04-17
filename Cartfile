@@ -1,0 +1,2 @@
+github "SyncDB/Sync" ~> 3.0
+github "SwiftyJSON/SwiftyJSON"

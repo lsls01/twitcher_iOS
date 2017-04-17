@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  twitcher_iOS
 //
-//  Created by Sheng Li on 30/3/17.
+//  Created by Sheng Li on 13/4/17.
 //  Copyright © 2017 Sheng Li. All rights reserved.
 //
 
@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func Start_Twitcher(_ sender: UIButton) {
+    }
 
 }
 

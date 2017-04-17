@@ -1,0 +1,87 @@
+Idx,Common name,Binomial,min_weight,max_weight
+26,Radjah shelduck,Tadorna radjah,840,930
+27,Australian shelduck,Tadorna tadornoides,1300,1500
+28,Paradise shelduck,Tadorna variegata,1400,1700
+29,Australian wood duck,Chenonetta jubata,662,984
+40,Pacific black duck,Anas superciliosa,1025,1114
+41,Hardhead,Aythya australis,810,860
+42,Blue-billed duck,Oxyura australis,810,850
+55,Spotted dove,Spilopelia chinensis,150,170
+58,Common bronzewing,Phaps chalcoptera,230,390
+69,Bar-shouldered dove,Geopelia humeralis,100,160
+83,Tawny frogmouth,Podargus strigoides,200,680
+125,Southern giant petrel,Macronectes giganteus,3800,5000
+132,Broad-billed prion,Pachyptila vittata,190,210
+134,Antarctic prion,Pachyptila desolata,140,160
+135,Slender-billed prion,Pachyptila belcheri,112,192
+140,Black petrel,Procellaria parkinsoni,680,720
+144,Wedge-tailed shearwater,Ardenna pacifica,320,510
+148,Great shearwater,Ardenna gravis,810,850
+161,Kerguelen petrel,Lugensa brevirostris,320,350
+179,King penguin,Aptenodytes patagonicus,9300,18000
+181,Gentoo penguin,Pygoscelis papua,4900,8500
+190,Little penguin,Eudyptula minor,1000,1500
+191,Magellanic penguin,Spheniscus magellanicus,2700,6500
+194,Christmas frigatebird,Fregata andrewsi,1500,1600
+196,Cape gannet,Morus capensis,2500,2700
+197,Australasian gannet,Morus serrator,1900,2350
+198,Masked booby,Sula dactylatra,1300,2350
+200,Brown booby,Sula leucogaster,1000,1300
+203,Great cormorant,Phalacrocorax carbo,1500,5300
+204,Little black cormorant,Phalacrocorax sulcirostris,520,1210
+217,Grey heron,Ardea cinerea,1000,2100
+220,Intermediate egret,Ardea intermedia,400,500
+224,Chinese pond heron,Ardeola bacchus,360,380
+227,White-faced heron,Egretta novaehollandiae,500,550
+228,Little egret,Egretta garzetta,350,550
+235,Straw-necked ibis,Threskiornis spinicollis,1100,1500
+237,Yellow-billed spoonbill,Platalea flavipes,1000,2000
+238,Black-necked stork,Ephippiorhynchus asiaticus,4000,4100
+247,Brahminy kite,Haliastur indus,320,670
+254,Swamp harrier,Circus approximans,580,1100
+257,Wedge-tailed eagle,Aquila audax,3200,5700
+258,Little eagle,Hieraaetus morphnoides,440,815
+266,Sarus crane,Grus antigone,5000,6900
+267,Brolga,Grus rubicunda,3700,8700
+272,Red-legged crake,Rallina fasciata,55,115
+287,Dusky moorhen,Gallinula tenebrosa,493,570
+316,Masked lapwing,Vanellus miles,230,400
+320,Pheasant-tailed jacana,Hydrophasianus chirurgus,120,230
+329,Whimbrel,Numenius phaeopus,310,490
+340,Lesser yellowlegs,Tringa flavipes,67,94
+364,Red-necked phalarope,Phalaropus lobatus,35,48
+395,White-fronted tern,Sterna striata,130,160
+402,Pacific gull,Larus pacificus,900,1180
+407,Laughing gull,Leucophaeus atricilla,240,400
+409,Silver gull,Chroicocephalus novaehollandiae,260,350
+410,Black-headed gull,Chroicocephalus ridibundus,200,400
+414,Red-tailed black cockatoo,Calyptorhynchus banksii,570,870
+419,Gang-gang cockatoo,Callocephalon fimbriatum,280,330
+422,Long-billed corella,Cacatua tenuirostris,550,800
+423,Western corella,Cacatua pastinator,525,860
+425,Sulphur-crested cockatoo,Cacatua galerita,700,950
+427,Rainbow lorikeet,Trichoglossus moluccanus,75,157
+462,Budgerigar,Melopsittacus undulatus,30,40
+475,Asian koel,Eudynamys scolopaceus,180,240
+490,Rufous owl,Ninox rufa,700,1300
+501,Common kingfisher,Alcedo atthis,34,46
+514,Black-capped kingfisher,Halcyon pileata,67,91
+520,Rainbow pitta,Pitta iris,90,100
+523,Superb lyrebird,Menura novaehollandiae,890,1100
+642,Noisy miner,Manorina melanocephala,70,80
+675,Blue-faced honeyeater,Entomyzon cyanotis,100,110
+689,Grey-crowned babbler,Pomatostomus temporalis,75,85
+744,Australian magpie,Cracticus tibicen,220,350
+745,Pied currawong,Strepera graculina,220,290
+748,Spangled drongo,Dicrurus bracteatus,70,90
+751,New Zealand fantail,Rhipidura fuliginosa,6.5,9
+755,Willie wagtail,Rhipidura leucophrys,17,24
+758,Australian raven,Corvus coronoides,560,650
+774,Magpie-lark,Grallina cyanoleuca,65,120
+779,Apostlebird,Struthidea cinerea,120,150
+836,Blue rock thrush,Monticola solitarius,37,70
+838,Narcissus flycatcher,Ficedula narcissina,11,12
+853,Common myna,Acridotheres tristis,110,140
+883,Eastern yellow wagtail,Motacilla tschutschensis,16,20
+887,White wagtail,Motacilla alba,17,25
+889,European goldfinch,Carduelis carduelis,14,19

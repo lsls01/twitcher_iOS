@@ -2,21 +2,62 @@
 //  AppDelegate.swift
 //  twitcher_iOS
 //
-//  Created by Sheng Li on 30/3/17.
+//  Created by Sheng Li on 13/4/17.
 //  Copyright © 2017 Sheng Li. All rights reserved.
 //
 
 import UIKit
 import CoreData
+import Sync
+import SwiftyJSON
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    let dataStack = DataStack(modelName:"Birds")
+    
+    private func readJson(){
+        do {
+            if let file = Bundle.main.url(forResource: "birds", withExtension: "json") {
+                let data = try Data(contentsOf: file)
+                //let json = try JSONSerialization.jsonObject(with: data, options: [])
+                let json = try JSONSerialization.jsonObject(with: data) as? [String: Any]
+                self.dataStack.sync(json, inEntityNamed: "User") { error in
+                    // New objects have been inserted
+                    // Existing objects have been updated
+                    // And not found objects have been deleted
+                }
+                if let object = json as? [String: Any] {
+                    // json is a dictionary
+                    print(object)
+                } else if let object = json as? [Any] {
+                    // json is an array
+                    print(object)
+                } else {
+                    print("JSON is invalid")
+                }
+            } else {
+                print("no file")
+            }
+        } catch {
+            print(error.localizedDescription)
+        }
+    }
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        readJson()
+        //let jsonFile = Bundle.main.path(forResource: "birds", ofType: "json")
+        //let json = JSON(data: jsonFile)
+        /*
+        self.dataStack.sync(json, inEntityNamed: "User") { error in
+            // New objects have been inserted
+            // Existing objects have been updated
+            // And not found objects have been deleted
+        }
+        */
         return true
     }
 
