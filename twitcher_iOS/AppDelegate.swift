@@ -17,32 +17,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     let dataStack = DataStack(modelName:"BirdsModel")
     
-    private func readJson(){
+    
+    
+    private func readJson(fileName:String, entityName:String){
         do {
-            let file = Bundle.main.url(forResource: "birds", withExtension: "json")!
+            let file = Bundle.main.url(forResource: fileName, withExtension: "json")!
             let data = try Data(contentsOf: file)
             //let json = try JSONSerialization.jsonObject(with: data, options: [])
             let json = try JSONSerialization.jsonObject(with: data)
-            print(json)
-            /*
-            self.dataStack.sync(json as! [[String : Any]], inEntityNamed: "Birds") { error in
+            
+            self.dataStack.sync(json as! [[String : Any]], inEntityNamed: entityName) { error in
                 // New objects have been inserted
                 // Existing objects have been updated
                 // And not found objects have been deleted
             }
- */
-            
-            /*
-             if let object = json as? [String: Any] {
-             // json is a dictionary
-             print(object)
-             } else if let object = json as? [Any] {
-             // json is an array
-             print(object)
-             } else {
-             print("JSON is invalid")
-             }
-             */
         } catch {
             print(error.localizedDescription)
         }
@@ -51,7 +39,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        readJson()
+        readJson(fileName: "birds", entityName: "Birds")
+        readJson(fileName: "location", entityName: "Location")
+        readJson(fileName: "voice", entityName: "Voice")
+        readJson(fileName: "colour", entityName: "Colour")
+        
+        let context = persistentContainer.viewContext
+        do {
+            try context.save()
+        } catch {
+            print("Data can not be saved")
+        }
+        
         //let jsonFile = Bundle.main.path(forResource: "birds", ofType: "json")
         //let json = JSON(data: jsonFile)
         /*
@@ -116,6 +115,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         })
         return container
     }()
+    
+    static var persistentContainer: NSPersistentContainer {
+        return (UIApplication.shared.delegate as! AppDelegate).persistentContainer
+    }
+    
+    static var viewContext: NSManagedObjectContext {
+        return persistentContainer.viewContext
+    }
     
     // MARK: - Core Data Saving support
     

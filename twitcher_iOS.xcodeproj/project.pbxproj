@@ -8,15 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		041B889B1E9F521700C41734 /* Sync.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041B889A1E9F521700C41734 /* Sync.framework */; };
+		0471C9AC1EA4C0E100D64DBC /* birds.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A81EA4C0E100D64DBC /* birds.json */; };
+		0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A91EA4C0E100D64DBC /* colour.json */; };
+		0471C9AE1EA4C0E100D64DBC /* location.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9AA1EA4C0E100D64DBC /* location.json */; };
+		0471C9AF1EA4C0E100D64DBC /* voice.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9AB1EA4C0E100D64DBC /* voice.json */; };
 		048EA0BF1E9F50DD0097BE2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0BE1E9F50DD0097BE2C /* AppDelegate.swift */; };
 		048EA0C11E9F50DD0097BE2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0C01E9F50DD0097BE2C /* ViewController.swift */; };
 		048EA0C41E9F50DD0097BE2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0C21E9F50DD0097BE2C /* Main.storyboard */; };
-		048EA0C71E9F50DD0097BE2C /* BirdsModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */; };
 		048EA0C91E9F50DD0097BE2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0C81E9F50DD0097BE2C /* Assets.xcassets */; };
 		048EA0CC1E9F50DD0097BE2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048EA0CA1E9F50DD0097BE2C /* LaunchScreen.storyboard */; };
 		048EA0D71E9F50DD0097BE2C /* twitcher_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0D61E9F50DD0097BE2C /* twitcher_iOSTests.swift */; };
 		048EA0E21E9F50DD0097BE2C /* twitcher_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048EA0E11E9F50DD0097BE2C /* twitcher_iOSUITests.swift */; };
-		04BB94F31E9F7204005C28A6 /* birds.json in Resources */ = {isa = PBXBuildFile; fileRef = 04BB94F21E9F7204005C28A6 /* birds.json */; };
+		04B174B01EA49E1F009BF671 /* BirdsModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04B174AE1EA49E1F009BF671 /* BirdsModel.xcdatamodeld */; };
 		04BB94F51E9FC38F005C28A6 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BB94F41E9FC38F005C28A6 /* SwiftyJSON.framework */; };
 /* End PBXBuildFile section */
 
@@ -39,11 +42,14 @@
 
 /* Begin PBXFileReference section */
 		041B889A1E9F521700C41734 /* Sync.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sync.framework; path = Carthage/Build/iOS/Sync.framework; sourceTree = "<group>"; };
+		0471C9A81EA4C0E100D64DBC /* birds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = birds.json; sourceTree = "<group>"; };
+		0471C9A91EA4C0E100D64DBC /* colour.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colour.json; sourceTree = "<group>"; };
+		0471C9AA1EA4C0E100D64DBC /* location.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = location.json; sourceTree = "<group>"; };
+		0471C9AB1EA4C0E100D64DBC /* voice.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = voice.json; sourceTree = "<group>"; };
 		048EA0BB1E9F50DD0097BE2C /* twitcher_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = twitcher_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		048EA0BE1E9F50DD0097BE2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		048EA0C01E9F50DD0097BE2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		048EA0C31E9F50DD0097BE2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BirdsModel.xcdatamodel; sourceTree = "<group>"; };
 		048EA0C81E9F50DD0097BE2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		048EA0CB1E9F50DD0097BE2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		048EA0CD1E9F50DD0097BE2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +59,7 @@
 		048EA0DD1E9F50DD0097BE2C /* twitcher_iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = twitcher_iOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		048EA0E11E9F50DD0097BE2C /* twitcher_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twitcher_iOSUITests.swift; sourceTree = "<group>"; };
 		048EA0E31E9F50DD0097BE2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		04BB94F21E9F7204005C28A6 /* birds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = birds.json; sourceTree = "<group>"; };
+		04B174AF1EA49E1F009BF671 /* BirdsModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BirdsModel.xcdatamodel; sourceTree = "<group>"; };
 		04BB94F41E9FC38F005C28A6 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +99,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		0471C9A71EA4A0F800D64DBC /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				0471C9A81EA4C0E100D64DBC /* birds.json */,
+				0471C9A91EA4C0E100D64DBC /* colour.json */,
+				0471C9AA1EA4C0E100D64DBC /* location.json */,
+				0471C9AB1EA4C0E100D64DBC /* voice.json */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
 		048EA0B21E9F50DC0097BE2C = {
 			isa = PBXGroup;
 			children = (
@@ -117,7 +134,7 @@
 		048EA0BD1E9F50DD0097BE2C /* twitcher_iOS */ = {
 			isa = PBXGroup;
 			children = (
-				04BB94F21E9F7204005C28A6 /* birds.json */,
+				0471C9A71EA4A0F800D64DBC /* Data */,
 				04E5B4481EA449EF00780A4C /* Supporting Files */,
 				048EA0C01E9F50DD0097BE2C /* ViewController.swift */,
 				048EA0C21E9F50DD0097BE2C /* Main.storyboard */,
@@ -150,7 +167,7 @@
 				048EA0C81E9F50DD0097BE2C /* Assets.xcassets */,
 				048EA0CA1E9F50DD0097BE2C /* LaunchScreen.storyboard */,
 				048EA0CD1E9F50DD0097BE2C /* Info.plist */,
-				048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */,
+				04B174AE1EA49E1F009BF671 /* BirdsModel.xcdatamodeld */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -265,9 +282,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				048EA0CC1E9F50DD0097BE2C /* LaunchScreen.storyboard in Resources */,
+				0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */,
 				048EA0C91E9F50DD0097BE2C /* Assets.xcassets in Resources */,
-				04BB94F31E9F7204005C28A6 /* birds.json in Resources */,
+				0471C9AC1EA4C0E100D64DBC /* birds.json in Resources */,
+				0471C9AE1EA4C0E100D64DBC /* location.json in Resources */,
 				048EA0C41E9F50DD0097BE2C /* Main.storyboard in Resources */,
+				0471C9AF1EA4C0E100D64DBC /* voice.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,7 +330,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				048EA0C71E9F50DD0097BE2C /* BirdsModel.xcdatamodeld in Sources */,
+				04B174B01EA49E1F009BF671 /* BirdsModel.xcdatamodeld in Sources */,
 				048EA0C11E9F50DD0097BE2C /* ViewController.swift in Sources */,
 				048EA0BF1E9F50DD0097BE2C /* AppDelegate.swift in Sources */,
 			);
@@ -590,12 +610,12 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		048EA0C51E9F50DD0097BE2C /* BirdsModel.xcdatamodeld */ = {
+		04B174AE1EA49E1F009BF671 /* BirdsModel.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */,
+				04B174AF1EA49E1F009BF671 /* BirdsModel.xcdatamodel */,
 			);
-			currentVersion = 048EA0C61E9F50DD0097BE2C /* BirdsModel.xcdatamodel */;
+			currentVersion = 04B174AF1EA49E1F009BF671 /* BirdsModel.xcdatamodel */;
 			path = BirdsModel.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
