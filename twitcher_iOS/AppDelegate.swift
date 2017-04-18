@@ -18,10 +18,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     let dataStack = DataStack(modelName:"BirdsModel")
     
     private func readJson(fileName:String, entityName:String){
+        // Use Sync framework to read one JSON file and load it into core data
         do {
             let file = Bundle.main.url(forResource: fileName, withExtension: "json")!
             let data = try Data(contentsOf: file)
-            //let json = try JSONSerialization.jsonObject(with: data, options: [])
             let json = try JSONSerialization.jsonObject(with: data)
             
             self.dataStack.sync(json as! [[String : Any]], inEntityNamed: entityName) { error in
@@ -34,9 +34,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
     }
     
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        readJson(fileName: "birds", entityName: "Bird")
+    private func readBuiltInData() {
+        readJson(fileName: "bird", entityName: "Bird")
         readJson(fileName: "location", entityName: "Location")
         readJson(fileName: "voice", entityName: "Voice")
         readJson(fileName: "colour", entityName: "Colour")
@@ -47,16 +46,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         } catch {
             print("Data can not be saved")
         }
+    }
+    
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        // Override point for customization after application launch.
+        readBuiltInData()
         
-        //let jsonFile = Bundle.main.path(forResource: "birds", ofType: "json")
-        //let json = JSON(data: jsonFile)
-        /*
-         self.dataStack.sync(json, inEntityNamed: "User") { error in
-         // New objects have been inserted
-         // Existing objects have been updated
-         // And not found objects have been deleted
-         }
-         */
         return true
     }
     
