@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		041B889B1E9F521700C41734 /* Sync.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041B889A1E9F521700C41734 /* Sync.framework */; };
+		0430E16E1EA61A4700F229EF /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0430E16D1EA61A4700F229EF /* background.png */; };
+		0430E1701EA706E700F229EF /* SwiftPages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0430E16F1EA706E700F229EF /* SwiftPages.swift */; };
 		0471C9AC1EA4C0E100D64DBC /* bird.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A81EA4C0E100D64DBC /* bird.json */; };
 		0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9A91EA4C0E100D64DBC /* colour.json */; };
 		0471C9AE1EA4C0E100D64DBC /* location.json in Resources */ = {isa = PBXBuildFile; fileRef = 0471C9AA1EA4C0E100D64DBC /* location.json */; };
@@ -42,6 +44,8 @@
 
 /* Begin PBXFileReference section */
 		041B889A1E9F521700C41734 /* Sync.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sync.framework; path = Carthage/Build/iOS/Sync.framework; sourceTree = "<group>"; };
+		0430E16D1EA61A4700F229EF /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		0430E16F1EA706E700F229EF /* SwiftPages.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftPages.swift; sourceTree = "<group>"; };
 		0471C9A81EA4C0E100D64DBC /* bird.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bird.json; sourceTree = "<group>"; };
 		0471C9A91EA4C0E100D64DBC /* colour.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = colour.json; sourceTree = "<group>"; };
 		0471C9AA1EA4C0E100D64DBC /* location.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = location.json; sourceTree = "<group>"; };
@@ -99,6 +103,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		0430E16B1EA61A2D00F229EF /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				0430E16D1EA61A4700F229EF /* background.png */,
+			);
+			name = imgs;
+			sourceTree = "<group>";
+		};
+		0430E16C1EA61A3600F229EF /* birds_imgs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = birds_imgs;
+			sourceTree = "<group>";
+		};
 		0471C9A71EA4A0F800D64DBC /* Data */ = {
 			isa = PBXGroup;
 			children = (
@@ -134,6 +153,8 @@
 		048EA0BD1E9F50DD0097BE2C /* twitcher_iOS */ = {
 			isa = PBXGroup;
 			children = (
+				0430E16C1EA61A3600F229EF /* birds_imgs */,
+				0430E16B1EA61A2D00F229EF /* imgs */,
 				0471C9A71EA4A0F800D64DBC /* Data */,
 				04E5B4481EA449EF00780A4C /* Supporting Files */,
 				048EA0C01E9F50DD0097BE2C /* ViewController.swift */,
@@ -163,6 +184,7 @@
 		04E5B4481EA449EF00780A4C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0430E16F1EA706E700F229EF /* SwiftPages.swift */,
 				048EA0BE1E9F50DD0097BE2C /* AppDelegate.swift */,
 				048EA0C81E9F50DD0097BE2C /* Assets.xcassets */,
 				048EA0CA1E9F50DD0097BE2C /* LaunchScreen.storyboard */,
@@ -282,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				048EA0CC1E9F50DD0097BE2C /* LaunchScreen.storyboard in Resources */,
+				0430E16E1EA61A4700F229EF /* background.png in Resources */,
 				0471C9AD1EA4C0E100D64DBC /* colour.json in Resources */,
 				048EA0C91E9F50DD0097BE2C /* Assets.xcassets in Resources */,
 				0471C9AC1EA4C0E100D64DBC /* bird.json in Resources */,
@@ -330,6 +353,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0430E1701EA706E700F229EF /* SwiftPages.swift in Sources */,
 				04B174B01EA49E1F009BF671 /* BirdsModel.xcdatamodeld in Sources */,
 				048EA0C11E9F50DD0097BE2C /* ViewController.swift in Sources */,
 				048EA0BF1E9F50DD0097BE2C /* AppDelegate.swift in Sources */,
@@ -490,6 +514,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = twitcher_iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Monash-University.twitcher-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +532,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = twitcher_iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Monash-University.twitcher-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
