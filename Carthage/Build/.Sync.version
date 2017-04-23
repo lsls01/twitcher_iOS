@@ -1,27 +1,27 @@
 {
-  "commitish" : "3.2.1",
+  "commitish" : "3.2.2",
   "iOS" : [
     {
-      "hash" : "de7f7897fa42fdfffba09b9775093f6e60b4b4face332017699468a9920947c6",
+      "hash" : "82860c7f074a1965b7cf9fb5102a84d4c167a9a00f06b15dad405679fcf844f4",
       "name" : "Sync"
     }
   ],
-  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "xcodeVersion" : "Xcode 8.3.2\nBuild version 8E2002",
   "watchOS" : [
     {
-      "hash" : "0ee779e10aa884a636a034646bc93da0638a6b1678d7c3b073bb29d28110e101",
+      "hash" : "8a54f83c805cd78a0437d922d5c126cc309e104d4297a4f3f09376b5dc3d35ae",
       "name" : "Sync"
     }
   ],
   "tvOS" : [
     {
-      "hash" : "e62329efd6bd95f1a2fc720b85cdd800a97beab7224cec656a948c9221b92e08",
+      "hash" : "fa74c843370722484f4e859280b16d828801160b25c42c64f4d702768bf6f3da",
       "name" : "Sync"
     }
   ],
   "Mac" : [
     {
-      "hash" : "b90686b274764158d0358f5958ed74402d539964e43c813b1ab4ab7014095eaf",
+      "hash" : "e2ec27524f7e443b3fe3a7d6d8c65ffc5cb5d8a501ab4e46f0a09170a1e1d79b",
       "name" : "Sync"
     }
   ]

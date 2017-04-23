@@ -1,0 +1,3 @@
+framework module SwiftySound {
+    header "SwiftySound-Swift.h"
+}

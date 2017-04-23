@@ -1,0 +1,25 @@
+{
+  "commitish" : "0.3.0",
+  "iOS" : [
+    {
+      "hash" : "479031291c15a7120a6970b3e9df226da6ab4f0e007814a6885c71810864dd46",
+      "name" : "SwiftySound"
+    }
+  ],
+  "xcodeVersion" : "Xcode 8.3.2\nBuild version 8E2002",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "hash" : "52c84a6c11c909cf18c8714fe779f6fb7e67396509b2f71254a7f6b79efef35f",
+      "name" : "SwiftySound"
+    }
+  ],
+  "Mac" : [
+    {
+      "hash" : "fd4ec835faf49487d87dd6dfaa6bd4cbf2ca43a7dd51b4f241011a6cc430f524",
+      "name" : "SwiftySound"
+    }
+  ]
+}

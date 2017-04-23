@@ -1,2 +1,3 @@
 github "SwiftyJSON/SwiftyJSON" "3.1.4"
-github "SyncDB/Sync" "3.2.1"
+github "SyncDB/Sync" "3.2.2"
+github "adamcichy/SwiftySound" "0.3.0"
