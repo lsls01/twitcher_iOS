@@ -1,894 +1,894 @@
-,Common name,Binomial,Notes,Category,Order,Family,colour,size
-0,Southern cassowary,Casuarius casuarius,,Cassowaries,Casuariformes,Casuariidae,,
-1,Emu,Dromaius novaehollandiae,,Emus,Casuariformes,Dromaiidae,,
-2,King Island emu,Dromaius ater,extinct,Emus,Casuariformes,Dromaiidae,,
-3,Kangaroo Island emu,Dromaius baudinianus,extinct,Emus,Casuariformes,Dromaiidae,,
-4,Australian brushturkey,Alectura lathami,,Mound-builders,Galliformes,Megapodidae,,
-5,Malleefowl,Leipoa ocellata,,Mound-builders,Galliformes,Megapodidae,,
-6,Orange-footed scrubfowl,Megapodius reinwardt,,Mound-builders,Galliformes,Megapodidae,,
-7,Stubble quail,Coturnix pectoralis,,Pheasants,Galliformes,Phasianidae,,
-8,Brown quail,Coturnix ypsilophora,,Pheasants,Galliformes,Phasianidae,,
-9,King quail,Excalfactoria chinensis,,Pheasants,Galliformes,Phasianidae,,
-10,Indian peafowl,Pavo cristatus,introduced,Pheasants,Galliformes,Phasianidae,,
-11,Red junglefowl,Gallus gallus,introduced,Pheasants,Galliformes,Phasianidae,,
-12,Green junglefowl,Gallus varius,"introduced, Cocos (Keeling) Islands",Pheasants,Galliformes,Phasianidae,,
-13,Common pheasant,Phasianus colchicus,introduced,Pheasants,Galliformes,Phasianidae,,
-14,Wild turkey,Meleagris gallopavo,introduced,Pheasants,Galliformes,Phasianidae,,
-15,Helmeted guineafowl,Numida meleagris,introduced,Guineafowl,Galliformes,Numididae,,
-16,Magpie goose,Anseranas semipalmata,,Magpie goose,Anseriformes,Anseranatidae,,
-17,Spotted whistling duck,Dendrocygna guttata,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-18,Plumed whistling duck,Dendrocygna eytoni,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-19,Wandering whistling duck,Dendrocygna arcuata,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-20,Musk duck,Biziura lobata,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-21,Freckled duck,Stictonetta naevosa,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-22,Cape Barren goose,Cereopsis novaehollandiae,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-23,Black swan,Cygnus atratus,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-24,Mute swan,Cygnus olor,introduced,"Ducks, geese and swans",Anseriformes,Anatidae,,
-25,Canada goose,Branta canadensis,"vagrant, introduced","Ducks, geese and swans",Anseriformes,Anatidae,,
-26,Radjah shelduck,Tadorna radjah,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-27,Australian shelduck,Tadorna tadornoides,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-28,Paradise shelduck,Tadorna variegata,"vagrant, Lord Howe Island","Ducks, geese and swans",Anseriformes,Anatidae,,
-29,Australian wood duck,Chenonetta jubata,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-30,Pink-eared duck,Malacorhynchus membranaceus,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-31,Cotton pygmy goose,Nettapus coromandelianus,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-32,Green pygmy goose,Nettapus pulchellus,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-33,Garganey,Anas querquedula,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-34,Australasian shoveler,Anas rhynchotis,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-35,Northern shoveler,Anas clypeata,vagrant,"Ducks, geese and swans",Anseriformes,Anatidae,,
-36,Grey teal,Anas gracilis,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-37,Chestnut teal,Anas castanea,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-38,Northern pintail,Anas acuta,vagrant,"Ducks, geese and swans",Anseriformes,Anatidae,,
-39,Northern mallard,Anas platyrhynchos,introduced,"Ducks, geese and swans",Anseriformes,Anatidae,,
-40,Pacific black duck,Anas superciliosa,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-41,Hardhead,Aythya australis,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-42,Blue-billed duck,Oxyura australis,,"Ducks, geese and swans",Anseriformes,Anatidae,,
-43,Red-tailed tropicbird,Phaethon rubricauda,,Tropicbirds,Phaethontiformes,Phaethontidae,,
-44,White-tailed tropicbird,Phaethon lepturus,,Tropicbirds,Phaethontiformes,Phaethontidae,,
-45,Australasian grebe,Tachybaptus novaehollandiae,,Grebes,Podicipediformes,Podicipedidae,,
-46,Little grebe,Tachybaptus ruficollis,vagrant,Grebes,Podicipediformes,Podicipedidae,,
-47,Hoary-headed grebe,Poliocephalus poliocephalus,,Grebes,Podicipediformes,Podicipedidae,,
-48,Great crested grebe,Podiceps cristatus,,Grebes,Podicipediformes,Podicipedidae,,
-49,Rock pigeon,Columba livia,introduced,Pigeons and doves,Columbiformes,Columbidae,,
-50,White-throated pigeon,Columba vitiensis,"extinct, Lord Howe Island",Pigeons and doves,Columbiformes,Columbidae,,
-51,White-headed pigeon,Columba leucomela,,Pigeons and doves,Columbiformes,Columbidae,,
-52,Barbary dove,Streptopelia roseogrisea,introduced,Pigeons and doves,Columbiformes,Columbidae,,
-53,Red collared dove,Streptopelia tranquebarica,"introduced, Christmas Island",Pigeons and doves,Columbiformes,Columbidae,,
-54,Laughing dove,Spilopelia senegalensis,introduced,Pigeons and doves,Columbiformes,Columbidae,,
-55,Spotted dove,Spilopelia chinensis,introduced,Pigeons and doves,Columbiformes,Columbidae,,
-56,Brown cuckoo-dove,Macropygia phasianella,,Pigeons and doves,Columbiformes,Columbidae,,
-57,Pacific emerald dove,Chalcophaps longirostris,,Pigeons and doves,Columbiformes,Columbidae,,
-58,Common bronzewing,Phaps chalcoptera,,Pigeons and doves,Columbiformes,Columbidae,,
-59,Brush bronzewing,Phaps elegans,,Pigeons and doves,Columbiformes,Columbidae,,
-60,Flock bronzewing,Phaps histrionica,,Pigeons and doves,Columbiformes,Columbidae,,
-61,Crested pigeon,Ocyphaps lophotes,,Pigeons and doves,Columbiformes,Columbidae,,
-62,Spinifex pigeon,Geophaps plumifera,,Pigeons and doves,Columbiformes,Columbidae,,
-63,Partridge pigeon,Geophaps smithii,,Pigeons and doves,Columbiformes,Columbidae,,
-64,Squatter pigeon,Geophaps scripta,,Pigeons and doves,Columbiformes,Columbidae,,
-65,White-quilled rock pigeon,Petrophassa albipennis,,Pigeons and doves,Columbiformes,Columbidae,,
-66,Chestnut-quilled rock pigeon,Petrophassa rufipennis,,Pigeons and doves,Columbiformes,Columbidae,,
-67,Diamond dove,Geopelia cuneata,,Pigeons and doves,Columbiformes,Columbidae,,
-68,Peaceful dove,Geopelia striata,,Pigeons and doves,Columbiformes,Columbidae,,
-69,Bar-shouldered dove,Geopelia humeralis,,Pigeons and doves,Columbiformes,Columbidae,,
-70,Wonga pigeon,Leucosarcia melanoleuca,,Pigeons and doves,Columbiformes,Columbidae,,
-71,Norfolk ground dove,Gallicolumba norfolciensis,"extinct, Norfolk Island",Pigeons and doves,Columbiformes,Columbidae,,
-72,Black-banded fruit dove,Ptilinopus alligator,,Pigeons and doves,Columbiformes,Columbidae,,
-73,Wompoo fruit dove,Ptilinopus magnificus,,Pigeons and doves,Columbiformes,Columbidae,,
-74,Superb fruit dove,Ptilinopus superbus,,Pigeons and doves,Columbiformes,Columbidae,,
-75,Rose-crowned fruit dove,Ptilinopus regina,,Pigeons and doves,Columbiformes,Columbidae,,
-76,Orange-bellied fruit dove,Ptilinopus iozonus,"vagrant, Torres Strait",Pigeons and doves,Columbiformes,Columbidae,,
-77,Elegant imperial pigeon,Ducula concinna,vagrant,Pigeons and doves,Columbiformes,Columbidae,,
-78,Christmas imperial pigeon,Ducula whartoni,Christmas Island,Pigeons and doves,Columbiformes,Columbidae,,
-79,Collared imperial pigeon,Ducula mullerii,"vagrant, Torres Strait",Pigeons and doves,Columbiformes,Columbidae,,
-80,Torresian imperial pigeon,Ducula spilorrhoa,,Pigeons and doves,Columbiformes,Columbidae,,
-81,Topknot pigeon,Lopholaimus antarcticus,,Pigeons and doves,Columbiformes,Columbidae,,
-82,New Zealand pigeon,Hemiphaga novaeseelandiae,"extirpated, Norfolk Island",Pigeons and doves,Columbiformes,Columbidae,,
-83,Tawny frogmouth,Podargus strigoides,,Frogmouths,Podargiformes,Podargidae,,
-84,Papuan frogmouth,Podargus papuensis,,Frogmouths,Podargiformes,Podargidae,,
-85,Marbled frogmouth,Podargus ocellatus,,Frogmouths,Podargiformes,Podargidae,,
-86,White-throated nightjar,Eurostopodus mystacalis,,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae,,
-87,Spotted nightjar,Eurostopodus argus,,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae,,
-88,Large-tailed nightjar,Caprimulgus macrurus,,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae,,
-89,Savanna nightjar,Caprimulgus affinis,"vagrant, Christmas Island",Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae,,
-90,Grey nightjar,Caprimulgus jotaka,"vagrant, Ashmore Reef",Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae,,
-91,Australian owlet-nightjar,Aegotheles cristatus,,Owlet-nightjars,Aegotheliformes,Aegothelidae,,
-92,Glossy swiftlet,Collocalia esculenta,vagrant,Swifts,Apodiformes,Apodidae,,
-93,Cave swiftlet,Collocalia linchi,Christmas Island,Swifts,Apodiformes,Apodidae,,
-94,Australian swiftlet,Aerodramus terraereginae,,Swifts,Apodiformes,Apodidae,,
-95,Uniform swiftlet,Aerodramus vanikorensis,vagrant,Swifts,Apodiformes,Apodidae,,
-96,White-throated needletail,Hirundapus caudacutus,,Swifts,Apodiformes,Apodidae,,
-97,Papuan spine-tailed swift,Mearnsia novaeguineae,"vagrant, Torres Strait",Swifts,Apodiformes,Apodidae,,
-98,Pacific swift,Apus pacificus,,Swifts,Apodiformes,Apodidae,,
-99,House swift,Apus affinis,vagrant,Swifts,Apodiformes,Apodidae,,
-100,Swinhoe's storm petrel,Hydrobates monorhis,vagrant,Storm petrels,Procellariiformes,Hydrobatidae,,
-101,Leach's storm petrel,Hydrobates leucorhoa,vagrant,Storm petrels,Procellariiformes,Hydrobatidae,,
-102,Tristram's storm petrel,Hydrobates tristrami,vagrant,Storm petrels,Procellariiformes,Hydrobatidae,,
-103,Matsudaira's storm petrel,Hydrobates matsudairae,vagrant,Storm petrels,Procellariiformes,Hydrobatidae,,
-104,Polynesian storm petrel,Nesofregetta fuliginosa,vagrant,Storm petrels,Procellariiformes,Hydrobatidae,,
-105,Wilson's storm petrel,Oceanites oceanicus,,Storm petrels,Procellariiformes,Hydrobatidae,,
-106,Grey-backed storm petrel,Garrodia nereis,,Storm petrels,Procellariiformes,Hydrobatidae,,
-107,White-faced storm petrel,Pelagodroma marina,,Storm petrels,Procellariiformes,Hydrobatidae,,
-108,Black-bellied storm petrel,Fregetta tropica,,Storm petrels,Procellariiformes,Hydrobatidae,,
-109,White-bellied storm petrel,Fregetta grallaria,,Storm petrels,Procellariiformes,Hydrobatidae,,
-110,Wandering albatross,Diomedea exulans,,Albatrosses,Procellariiformes,Diomedeidae,,
-111,Antipodean albatross,Diomedea antipodensis,,Albatrosses,Procellariiformes,Diomedeidae,,
-112,Southern royal albatross,Diomedea epomophora,,Albatrosses,Procellariiformes,Diomedeidae,,
-113,Northern royal albatross,Diomedea sanfordi,,Albatrosses,Procellariiformes,Diomedeidae,,
-114,Laysan albatross,Phoebastria immutabilis,vagrant,Albatrosses,Procellariiformes,Diomedeidae,,
-115,Black-browed albatross,Thalassarche melanophris,,Albatrosses,Procellariiformes,Diomedeidae,,
-116,Shy albatross,Thalassarche cauta,,Albatrosses,Procellariiformes,Diomedeidae,,
-117,Salvin's albatross,Thalassarche salvini,,Albatrosses,Procellariiformes,Diomedeidae,,
-118,Chatham albatross,Thalassarche eremita,,Albatrosses,Procellariiformes,Diomedeidae,,
-119,Campbell albatross,Thalassarche impavida,,Albatrosses,Procellariiformes,Diomedeidae,,
-120,Grey-headed albatross,Thalassarche chrysostoma,,Albatrosses,Procellariiformes,Diomedeidae,,
-121,Yellow-nosed albatross,Thalassarche carteri,,Albatrosses,Procellariiformes,Diomedeidae,,
-122,Buller's albatross,Thalassarche bulleri,,Albatrosses,Procellariiformes,Diomedeidae,,
-123,Sooty albatross,Phoebetria fusca,,Albatrosses,Procellariiformes,Diomedeidae,,
-124,Light-mantled sooty albatross,Phoebetria palpebrata,,Albatrosses,Procellariiformes,Diomedeidae,,
-125,Southern giant petrel,Macronectes giganteus,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-126,Northern giant petrel,Macronectes halli,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-127,Southern fulmar,Fulmarus glacialoides,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-128,Antarctic petrel,Thalassoica antarctica,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-129,Cape petrel,Daption capense,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-130,Snow petrel,Pagodroma nivea,"vagrant, Heard Island","Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-131,Blue petrel,Halobaena caerulea,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-132,Broad-billed prion,Pachyptila vittata,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-133,Salvin's prion,Pachyptila salvini,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-134,Antarctic prion,Pachyptila desolata,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-135,Slender-billed prion,Pachyptila belcheri,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-136,Fairy prion,Pachyptila turtur,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-137,Fulmar prion,Pachyptila crassirostris,vagrant; Heard Island,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-138,White-chinned petrel,Procellaria aequinoctialis,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-139,Westland petrel,Procellaria westlandica,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-140,Black petrel,Procellaria parkinsoni,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-141,Grey petrel,Procellaria cinerea,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-142,Bulwer's petrel,Bulweria bulwerii,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-143,Jouanin's petrel,Bulweria fallax,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-144,Wedge-tailed shearwater,Ardenna pacifica,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-145,Buller's shearwater,Ardenna bulleri,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-146,Flesh-footed shearwater,Ardenna carneipes,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-147,Pink-footed shearwater,Ardenna creatopus,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-148,Great shearwater,Ardenna gravis,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-149,Sooty shearwater,Ardenna grisea,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-150,Short-tailed shearwater,Ardenna tenuirostris,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-151,Streaked shearwater,Calonectris leucomelas,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-152,Manx shearwater,Puffinus puffinus,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-153,Newell's shearwater,Puffinus newelli,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-154,Fluttering shearwater,Puffinus gavia,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-155,Hutton's shearwater,Puffinus huttoni,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-156,Tropical shearwater,Puffinus bailloni,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-157,Persian shearwater,Puffinus persicus,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-158,Heinroth's shearwater,Puffinus heinrothi,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-159,Little shearwater,Puffinus assimilis,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-160,Tahiti petrel,Pseudobulweria rostrata,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-161,Kerguelen petrel,Lugensa brevirostris,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-162,Barau's petrel,Pterodroma baraui,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-163,Juan Fernandez petrel,Pterodroma externa,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-164,Kermadec petrel,Pterodroma neglecta,vagrant; Lord Howe Island; Norfolk Island,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-165,Herald petrel,Pterodroma heraldica,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-166,Soft-plumaged petrel,Pterodroma mollis,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-167,White-headed petrel,Pterodroma lessonii,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-168,Great-winged petrel,Pterodroma macroptera,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-169,Providence petrel,Pterodroma solandri,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-170,Mottled petrel,Pterodroma inexpectata,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-171,Gould's petrel,Pterodroma leucoptera,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-172,Cook's petrel,Pterodroma cookii,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-173,White-necked petrel,Pterodroma cervicalis,vagrant; Norfolk Island,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-174,Vanuatu petrel,Pterodroma occulta,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-175,Black-winged petrel,Pterodroma nigripennis,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-176,Atlantic petrel,Pterodroma incerta,vagrant,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-177,Common diving petrel,Pelecanoides urinatrix,,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-178,South Georgian diving petrel,Pelecanoides georgicus,vagrant; Macquarie Island; Heard Island,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae,,
-179,King penguin,Aptenodytes patagonicus,vagrant; Macquarie Island; Heard Island,Penguins,Sphenisciformes,Spheniscidae,,
-180,Emperor penguin,Aptenodytes forsteri,"vagrant, Heard Island",Penguins,Sphenisciformes,Spheniscidae,,
-181,Gentoo penguin,Pygoscelis papua,vagrant; Macquarie Island; Heard Island,Penguins,Sphenisciformes,Spheniscidae,,
-182,Adelie penguin,Pygoscelis adeliae,"vagrant, Macquarie Island, Heard Island",Penguins,Sphenisciformes,Spheniscidae,,
-183,Chinstrap penguin,Pygoscelis antarcticus,vagrant,Penguins,Sphenisciformes,Spheniscidae,,
-184,Southern rockhopper penguin,Eudyptes chrysocome,vagrant; Macquarie Island; Heard Island,Penguins,Sphenisciformes,Spheniscidae,,
-185,Northern rockhopper penguin,Eudyptes moseleyi,vagrant;,Penguins,Sphenisciformes,Spheniscidae,,
-186,Fiordland penguin,Eudyptes pachyrhynchus,vagrant,Penguins,Sphenisciformes,Spheniscidae,,
-187,Erect-crested penguin,Eudyptes sclateri,vagrant,Penguins,Sphenisciformes,Spheniscidae,,
-188,Macaroni penguin,Eudyptes chrysolophus,vagrant; Macquarie Island; Heard Island,Penguins,Sphenisciformes,Spheniscidae,,
-189,Royal penguin,Eudyptes schlegeli,vagrant; Macquarie Island;,Penguins,Sphenisciformes,Spheniscidae,,
-190,Little penguin,Eudyptula minor,,Penguins,Sphenisciformes,Spheniscidae,,
-191,Magellanic penguin,Spheniscus magellanicus,vagrant,Penguins,Sphenisciformes,Spheniscidae,,
-192,Lesser frigatebird,Fregata ariel,,Frigatebirds,Suliformes,Fregatidae,,
-193,Great frigatebird,Fregata minor,,Frigatebirds,Suliformes,Fregatidae,,
-194,Christmas frigatebird,Fregata andrewsi,vagrant; Christmas Island,Frigatebirds,Suliformes,Fregatidae,,
-195,Abbott's booby,Papasula abbotti,vagrant; Christmas Island,Boobies and gannets,Suliformes,Sulidae,,
-196,Cape gannet,Morus capensis,vagrant,Boobies and gannets,Suliformes,Sulidae,,
-197,Australasian gannet,Morus serrator,,Boobies and gannets,Suliformes,Sulidae,,
-198,Masked booby,Sula dactylatra,,Boobies and gannets,Suliformes,Sulidae,,
-199,Red-footed booby,Sula sula,,Boobies and gannets,Suliformes,Sulidae,,
-200,Brown booby,Sula leucogaster,,Boobies and gannets,Suliformes,Sulidae,,
-201,Australasian darter,Anhinga novaehollandiae,,Darters,Suliformes,Anhingidae,,
-202,Little pied cormorant,Microcarbo melanoleucos,,Cormorants,Suliformes,Phalacrocoracidae,,
-203,Great cormorant,Phalacrocorax carbo,,Cormorants,Suliformes,Phalacrocoracidae,,
-204,Little black cormorant,Phalacrocorax sulcirostris,,Cormorants,Suliformes,Phalacrocoracidae,,
-205,Pied cormorant,Phalacrocorax varius,,Cormorants,Suliformes,Phalacrocoracidae,,
-206,Black-faced cormorant,Phalacrocorax fuscescens,,Cormorants,Suliformes,Phalacrocoracidae,,
-207,Macquarie shag,Phalacrocorax purpurascens,Macquarie Island,Cormorants,Suliformes,Phalacrocoracidae,,
-208,Heard Island shag,Phalacrocorax nivalis,Heard Island,Cormorants,Suliformes,Phalacrocoracidae,,
-209,Kerguelen shag,Phalacrocorax verrucosus,vagrant,Cormorants,Suliformes,Phalacrocoracidae,,
-210,Australian pelican,Pelecanus conspicillatus,,Pelicans,Pelecaniformes,Pelecanidae,,
-211,Australasian bittern,Botaurus poiciloptilus,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-212,Australian little bittern,Ixobrychus dubius,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-213,Yellow bittern,Ixobrychus sinensis,vagrant,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-214,Schrenck's bittern,Ixobrychus eurhythmus,"vagrant, Christmas Island","Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-215,Cinnamon bittern,Ixobrychus cinnamomeus,"vagrant, Christmas Island","Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-216,Black bittern,Ixobrychus flavicollis,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-217,Grey heron,Ardea cinerea,vagrant,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-218,White-necked heron,Ardea pacifica,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-219,Eastern great egret,Ardea modesta,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-220,Intermediate egret,Ardea intermedia,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-221,Great-billed heron,Ardea sumatrana,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-222,Cattle egret,Ardea ibis,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-223,Striated heron,Butorides striatus,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-224,Chinese pond heron,Ardeola bacchus,"vagrant, Cocos (Keeling) Islands","Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-225,Javan pond heron,Ardeola speciosa,vagrant,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-226,Pied heron,Egretta picata,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-227,White-faced heron,Egretta novaehollandiae,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-228,Little egret,Egretta garzetta,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-229,Eastern reef egret,Egretta sacra,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-230,Black-crowned night heron,Nycticorax nycticorax,"vagrant, Cocos (Keeling) Islands","Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-231,Nankeen night heron,Nycticorax caledonicus,,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-232,Malayan night heron,Gorsachius melanolophus,"vagrant, Christmas Island","Bitterns, herons and egrets",Pelecaniformes,Ardeidae,,
-233,Glossy ibis,Plegadis falcinellus,,Ibises and spoonbills,Pelecaniformes,Threskiornithidae,,
-234,Australian white ibis,Threskiornis moluccus,,Ibises and spoonbills,Pelecaniformes,Threskiornithidae,,
-235,Straw-necked ibis,Threskiornis spinicollis,,Ibises and spoonbills,Pelecaniformes,Threskiornithidae,,
-236,Royal spoonbill,Platalea regia,,Ibises and spoonbills,Pelecaniformes,Threskiornithidae,,
-237,Yellow-billed spoonbill,Platalea flavipes,,Ibises and spoonbills,Pelecaniformes,Threskiornithidae,,
-238,Black-necked stork,Ephippiorhynchus asiaticus,,Storks,Ciconiiformes,Ciconiidae,,
-239,Black-shouldered kite,Elanus axillaris,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-240,Letter-winged kite,Elanus scriptus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-241,Square-tailed kite,Lophoictinia isura,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-242,Black-breasted buzzard,Hamirostra melanosternon,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-243,Crested honey buzzard,Pernis ptilorhynchus,vagrant,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-244,Pacific baza,Aviceda subcristata,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-245,White-bellied sea eagle,Haliaeetus leucogaster,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-246,Whistling kite,Haliastur sphenurus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-247,Brahminy kite,Haliastur indus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-248,Black kite,Milvus migrans,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-249,Brown goshawk,Accipiter fasciatus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-250,Collared sparrowhawk,Accipiter cirrocephalus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-251,Variable goshawk,Accipiter hiogaster,Christmas Island,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-252,Grey goshawk,Accipiter novaehollandiae,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-253,Spotted harrier,Circus assimilis,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-254,Swamp harrier,Circus approximans,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-255,Red goshawk,Erythrotriorchis radiatus,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-256,Gurney's eagle,Aquila gurneyi,"vagrant, Torres Strait","Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-257,Wedge-tailed eagle,Aquila audax,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-258,Little eagle,Hieraaetus morphnoides,,"Hawks, kites and eagles",Accipitriformes,Accipitridae,,
-259,Eastern osprey,Pandion haliaetus / Pandion cristatus,,Osprey,Accipitriformes,Pandionidae,,
-260,Nankeen kestrel,Falco cenchroides,,Falcons,Falconiformes,Falconidae,,
-261,Brown falcon,Falco berigora,,Falcons,Falconiformes,Falconidae,,
-262,Australian hobby,Falco longipennis,,Falcons,Falconiformes,Falconidae,,
-263,Grey falcon,Falco hypoleucos,,Falcons,Falconiformes,Falconidae,,
-264,Black falcon,Falco subniger,,Falcons,Falconiformes,Falconidae,,
-265,Peregrine falcon,Falco peregrinus,,Falcons,Falconiformes,Falconidae,,
-266,Sarus crane,Grus antigone,,Cranes,Gruiformes,Gruidae,,
-267,Brolga,Grus rubicunda,,Cranes,Gruiformes,Gruidae,,
-268,Australasian swamphen,Porphyrio melanotus,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-269,White gallinule,Porphyrio albus,"extinct, Lord Howe Island","Rails, crakes and coots",Gruiformes,Rallidae,,
-270,Chestnut rail,Eulabeornis castaneoventris,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-271,Red-necked crake,Rallina tricolor,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-272,Red-legged crake,Rallina fasciata,vagrant,"Rails, crakes and coots",Gruiformes,Rallidae,,
-273,Lewin's rail,Lewinia pectoralis,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-274,Buff-banded rail,Gallirallus philippensis,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-275,Lord Howe woodhen,Gallirallus sylvestris,Lord Howe Island,"Rails, crakes and coots",Gruiformes,Rallidae,,
-276,Corncrake,Crex crex,vagrant,"Rails, crakes and coots",Gruiformes,Rallidae,,
-277,Baillon's crake,Porzana pusilla,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-278,Australian spotted crake,Porzana fluminea,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-279,Ruddy-breasted crake,Porzana fusca,"vagrant, Christmas Island","Rails, crakes and coots",Gruiformes,Rallidae,,
-280,Spotless crake,Porzana tabuensis,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-281,White-browed crake,Amaurornis cinerea,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-282,Pale-vented bush-hen,Amaurornis moluccana,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-283,White-breasted waterhen,Amaurornis phoenicurus,"vagrant, Christmas Island, Cocos (Keeling) Islands","Rails, crakes and coots",Gruiformes,Rallidae,,
-284,Watercock,Gallicrex cinerea,"vagrant, Christmas Island","Rails, crakes and coots",Gruiformes,Rallidae,,
-285,Black-tailed nativehen,Tribonyx ventralis,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-286,Tasmanian nativehen,Tribonyx mortierii,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-287,Dusky moorhen,Gallinula tenebrosa,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-288,Eurasian coot,Fulica atra,,"Rails, crakes and coots",Gruiformes,Rallidae,,
-289,Australian bustard,Ardeotis australis,,Bustards,Otidiformes,Otididae,,
-290,Black-faced sheathbill,Chionis minor,Heard Island,Sheathbills,Charadriiformes,Chionididae,,
-291,Bush stone-curlew,Burhinus grallarius,,Stone-curlews (thick-knees),Charadriiformes,Burhinidae,,
-292,Beach stone-curlew,Esacus magnirostris,,Stone-curlews (thick-knees),Charadriiformes,Burhinidae,,
-293,South Island pied oystercatcher,Haematopus finschi,vagrant,Oystercatchers,Charadriiformes,Haematopodidae,,
-294,Australian pied oystercatcher,Haematopus longirostris,,Oystercatchers,Charadriiformes,Haematopodidae,,
-295,Sooty oystercatcher,Haematopus fuliginosus,,Oystercatchers,Charadriiformes,Haematopodidae,,
-296,Black-winged stilt,Himantopus himantopus,,Avocets and stilts,Charadriiformes,Recurvirostridae,,
-297,Red-necked avocet,Recurvirostra novaehollandiae,,Avocets and stilts,Charadriiformes,Recurvirostridae,,
-298,Banded stilt,Cladorhynchus leucocephalus,,Avocets and stilts,Charadriiformes,Recurvirostridae,,
-299,Pacific golden plover,Pluvialis fulva,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-300,American golden plover,Pluvialis dominicus,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-301,Grey plover,Pluvialis squatarola,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-302,Ringed plover,Charadrius hiaticula,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-303,Little ringed plover,Charadrius dubius,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-304,Kentish plover,Charadrius alexandrinus,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-305,Red-capped plover,Charadrius ruficapillus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-306,Double-banded plover,Charadrius bicinctus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-307,Lesser sand plover,Charadrius mongolus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-308,Greater sand plover,Charadrius leschenaultii,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-309,Caspian plover,Charadrius asiaticus,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-310,Oriental plover,Charadrius veredus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-311,Inland dotterel,Charadrius australis,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-312,Black-fronted dotterel,Elseyornis melanops,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-313,Hooded plover,Thinornis cucullatus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-314,Red-kneed dotterel,Erythrogonys cinctus,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-315,Banded lapwing,Vanellus tricolor,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-316,Masked lapwing,Vanellus miles,,Plovers and lapwings,Charadriiformes,Charadriidae,,
-317,Grey-headed lapwing,Vanellus cinereus,vagrant,Plovers and lapwings,Charadriiformes,Charadriidae,,
-318,Plains wanderer,Pedionomus torquatus,,Plains wanderer,Charadriiformes,Pedionomidae,,
-319,Comb-crested jacana,Irediparra gallinacea,,Jacanas,Charadriiformes,Jacanidae,,
-320,Pheasant-tailed jacana,Hydrophasianus chirurgus,vagrant,Jacanas,Charadriiformes,Jacanidae,,
-321,Australian painted-snipe,Rostratula australis,,Painted-snipe,Charadriiformes,Rostratulidae,,
-322,Latham's snipe,Gallinago hardwickii,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-323,Pin-tailed snipe,Gallinago stenura,vagrant; Christmas Island,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-324,Swinhoe's snipe,Gallinago megala,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-325,Black-tailed godwit,Limosa limosa,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-326,Hudsonian godwit,Limosa haemastica,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-327,Bar-tailed godwit,Limosa lapponica,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-328,Little curlew,Numenius minutus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-329,Whimbrel,Numenius phaeopus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-330,Eastern curlew,Numenius madagascariensis,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-331,Upland sandpiper,Bartramia longicauda,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-332,Terek sandpiper,Xenus cinereus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-333,Common sandpiper,Actitis hypoleucos,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-334,Green sandpiper,Tringa ochropus,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-335,Grey-tailed tattler,Tringa brevipes,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-336,Wandering tattler,Tringa incana,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-337,Spotted redshank,Tringa erythropus,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-338,Nordmann's greenshank,Tringa guttifer,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-339,Common greenshank,Tringa nebularia,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-340,Lesser yellowlegs,Tringa flavipes,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-341,Marsh sandpiper,Tringa stagnatilis,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-342,Common redshank,Tringa totanus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-343,Wood sandpiper,Tringa glareola,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-344,Ruddy turnstone,Arenaria interpres,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-345,Asian dowitcher,Limnodromus semipalmatus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-346,Short-billed dowitcher,Limnodromus griseus,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-347,Great knot,Calidris tenuirostris,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-348,Red knot,Calidris canutus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-349,Sanderling,Calidris alba,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-350,Little stint,Calidris minuta,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-351,Red-necked stint,Calidris ruficollis,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-352,Long-toed stint,Calidris subminuta,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-353,White-rumped sandpiper,Calidris fuscicollis,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-354,Baird's sandpiper,Calidris bairdii,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-355,Pectoral sandpiper,Calidris melanotos,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-356,Sharp-tailed sandpiper,Calidris acuminata,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-357,Dunlin,Calidris alpina,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-358,Curlew sandpiper,Calidris ferruginea,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-359,Stilt sandpiper,Calidris himantopus,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-360,Buff-breasted sandpiper,Tryngites subruficollis,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-361,Broad-billed sandpiper,Limicola falcinellus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-362,Ruff,Philomachus pugnax,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-363,Wilson's phalarope,Steganopus tricolor,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-364,Red-necked phalarope,Phalaropus lobatus,,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-365,Grey phalarope,Phalaropus fulicarius,vagrant,Waders or shorebirds,Charadriiformes,Scolopacidae,,
-366,Red-backed buttonquail,Turnix maculosus,,Buttonquail,Charadriiformes,Turnicidae,,
-367,Black-breasted buttonquail,Turnix melanogaster,,Buttonquail,Charadriiformes,Turnicidae,,
-368,Chestnut-backed buttonquail,Turnix castanotus,,Buttonquail,Charadriiformes,Turnicidae,,
-369,Buff-breasted buttonquail,Turnix olivii,,Buttonquail,Charadriiformes,Turnicidae,,
-370,Painted buttonquail,Turnix varius,,Buttonquail,Charadriiformes,Turnicidae,,
-371,Red-chested buttonquail,Turnix pyrrhothorax,,Buttonquail,Charadriiformes,Turnicidae,,
-372,Little buttonquail,Turnix velox,,Buttonquail,Charadriiformes,Turnicidae,,
-373,Oriental pratincole,Glareola maldivarum,,Pratincoles,Charadriiformes,Glareolidae,,
-374,Australian pratincole,Stiltia isabella,,Pratincoles,Charadriiformes,Glareolidae,,
-375,South polar skua,Stercorarius maccormicki,,Skuas,Charadriiformes,Stercorariidae,,
-376,Brown skua,Stercorarius antarcticus,,Skuas,Charadriiformes,Stercorariidae,,
-377,Pomarine jaeger,Stercorarius pomarinus,,Skuas,Charadriiformes,Stercorariidae,,
-378,Arctic jaeger,Stercorarius parasiticus,,Skuas,Charadriiformes,Stercorariidae,,
-379,Long-tailed jaeger,Stercorarius longicauda,,Skuas,Charadriiformes,Stercorariidae,,
-380,Common noddy,Anous stolidus,,Gulls and terns,Charadriiformes,Laridae,,
-381,Black noddy,Anous minutus,,Gulls and terns,Charadriiformes,Laridae,,
-382,Lesser noddy,Anous tenuirostris,,Gulls and terns,Charadriiformes,Laridae,,
-383,White tern,Gygis alba,vagrant; Lord Howe Island; Cocos (Keeling) Islands; Norfolk Island,Gulls and terns,Charadriiformes,Laridae,,
-384,Grey ternlet,Procelsterna cerulea,vagrant; Lord Howe Island; Norfolk Island,Gulls and terns,Charadriiformes,Laridae,,
-385,Bridled tern,Onychoprion anaethetus,,Gulls and terns,Charadriiformes,Laridae,,
-386,Sooty tern,Onychoprion fuscata,,Gulls and terns,Charadriiformes,Laridae,,
-387,Little tern,Sternula albifrons,,Gulls and terns,Charadriiformes,Laridae,,
-388,Fairy tern,Sternula nereis,,Gulls and terns,Charadriiformes,Laridae,,
-389,Gull-billed tern,Gelochelidon nilotica,,Gulls and terns,Charadriiformes,Laridae,,
-390,Caspian tern,Hydroprogne caspia,,Gulls and terns,Charadriiformes,Laridae,,
-391,Whiskered tern,Chlidonias hybrida,,Gulls and terns,Charadriiformes,Laridae,,
-392,White-winged black tern,Chlidonias leucopterus,,Gulls and terns,Charadriiformes,Laridae,,
-393,Black tern,Chlidonias niger,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-394,Roseate tern,Sterna dougallii,,Gulls and terns,Charadriiformes,Laridae,,
-395,White-fronted tern,Sterna striata,,Gulls and terns,Charadriiformes,Laridae,,
-396,Black-naped tern,Sterna sumatrana,,Gulls and terns,Charadriiformes,Laridae,,
-397,Common tern,Sterna hirundo,,Gulls and terns,Charadriiformes,Laridae,,
-398,Arctic tern,Sterna paradisaea,,Gulls and terns,Charadriiformes,Laridae,,
-399,Antarctic tern,Sterna vittata,vagrant; Macquarie Island; Heard Island,Gulls and terns,Charadriiformes,Laridae,,
-400,Lesser crested tern,Thalasseus bengalensis,,Gulls and terns,Charadriiformes,Laridae,,
-401,Crested tern,Thalasseus bergii,,Gulls and terns,Charadriiformes,Laridae,,
-402,Pacific gull,Larus pacificus,,Gulls and terns,Charadriiformes,Laridae,,
-403,Lesser black-backed gull,Larus fuscus,"vagrant, Cocos (Keeling) Islands",Gulls and terns,Charadriiformes,Laridae,,
-404,Kelp gull,Larus dominicanus,,Gulls and terns,Charadriiformes,Laridae,,
-405,Mew gull,Larus canus,"vagrant, Christmas Island",Gulls and terns,Charadriiformes,Laridae,,
-406,Black-tailed gull,Larus crassirostris,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-407,Laughing gull,Leucophaeus atricilla,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-408,Franklin's gull,Leucophaeus pipixcan,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-409,Silver gull,Chroicocephalus novaehollandiae,,Gulls and terns,Charadriiformes,Laridae,,
-410,Black-headed gull,Chroicocephalus ridibundus,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-411,Sabine's gull,Xema sabini,vagrant,Gulls and terns,Charadriiformes,Laridae,,
-412,Norfolk kaka,Nestor productus,"extinct, Norfolk Island",Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-413,Palm cockatoo,Probosciger aterrimus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-414,Red-tailed black cockatoo,Calyptorhynchus banksii,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-415,Glossy black cockatoo,Calyptorhynchus lathami,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-416,Yellow-tailed black cockatoo,Calyptorhynchus funereus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-417,Carnaby's black cockatoo,Calyptorhynchus latirostris,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-418,Baudin's black cockatoo,Calyptorhynchus baudinii,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-419,Gang-gang cockatoo,Callocephalon fimbriatum,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-420,Major Mitchell's cockatoo,Lophochroa leadbeateri,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-421,Galah,Eolophus roseicapilla,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-422,Long-billed corella,Cacatua tenuirostris,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-423,Western corella,Cacatua pastinator,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-424,Little corella,Cacatua sanguinea,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-425,Sulphur-crested cockatoo,Cacatua galerita,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-426,Cockatiel,Nymphicus hollandicus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-427,Rainbow lorikeet,Trichoglossus moluccanus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-428,Red-collared lorikeet,Trichoglossus rubritorquis,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-429,Coconut lorikeet,Trichoglossus haematodus,Saibai Island,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-430,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-431,Varied lorikeet,Psitteuteles versicolor,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-432,Musk lorikeet,Glossopsitta concinna,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-433,Little lorikeet,Glossopsitta pusilla,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-434,Purple-crowned lorikeet,Glossopsitta porphyrocephala,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-435,Double-eyed fig parrot,Cyclopsitta diophthalma,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-436,Eclectus parrot,Eclectus roratus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-437,Red-cheeked parrot,Geoffroyus geoffroyi,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-438,Australian king parrot,Alisterus scapularis,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-439,Red-winged parrot,Aprosmictus erythropterus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-440,Superb parrot,Polytelis swainsonii,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-441,Regent parrot,Polytelis anthopeplus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-442,Princess parrot,Polytelis alexandrae,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-443,Green rosella,Platycercus caledonicus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-444,Crimson rosella,Platycercus elegans,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-445,Eastern rosella,Platycercus eximius,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-446,Pale-headed rosella,Platycercus adscitus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-447,Northern rosella,Platycercus venustus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-448,Western rosella,Platycercus icterotis,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-449,Australian ringneck,Barnardius zonarius,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-450,Red-capped parrot,Purpureicephalus spurius,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-451,Bluebonnet,Northiella haematogaster,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-452,Swift parrot,Lathamus discolor,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-453,Red-rumped parrot,Psephotus haematonotus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-454,Mulga parrot,Psephotus varius,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-455,Golden-shouldered parrot,Psephotus chrysopterygius,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-456,Hooded parrot,Psephotus dissimilis,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-457,Paradise parrot,Psephotus pulcherrimus,extinct,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-458,Tasman parakeet,Cyanoramphus cookii,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-459,Norfolk Island green parrot,Norfolk Island,extirpated,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-460,Lord Howe red-crowned parakeet,Lord Howe Island,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-461,Red-fronted parakeet,Cyanoramphus novaezelandiae,"extirpated, Macquarie Island",Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-462,Budgerigar,Melopsittacus undulatus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-463,Bourke's parrot,Neopsephotus bourkii,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-464,Blue-winged parrot,Neophema chrysostoma,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-465,Elegant parrot,Neophema elegans,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-466,Rock parrot,Neophema petrophila,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-467,Orange-bellied parrot,Neophema chrysogaster,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-468,Turquoise parrot,Neophema pulchella,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-469,Scarlet-chested parrot,Neophema splendida,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-470,Eastern ground parrot,Pezoporus wallicus,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-471,Western ground parrot,Pezoporus flaviventris,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-472,Night parrot,Pezoporus occidentalis,,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae",,
-473,Lesser coucal,Centropus bengalensis,"vagrant, Ashmore Reef",Cuckoos,Cuculiformes,Cuculidae,,
-474,Pheasant coucal,Centropus phasianinus,,Cuckoos,Cuculiformes,Cuculidae,,
-475,Asian koel,Eudynamys scolopaceus,"vagrant, Christmas Island",Cuckoos,Cuculiformes,Cuculidae,,
-476,Eastern koel,Eudynamys orientalis,,Cuckoos,Cuculiformes,Cuculidae,,
-477,Long-tailed cuckoo,Eudynamys taitensis,"Lord Howe Island, Norfolk Island",Cuckoos,Cuculiformes,Cuculidae,,
-478,Channel-billed cuckoo,Scythrops novaehollandiae,,Cuckoos,Cuculiformes,Cuculidae,,
-479,Horsfield's bronze cuckoo,Chalcites basalis,,Cuckoos,Cuculiformes,Cuculidae,,
-480,Black-eared cuckoo,Chalcites osculans,,Cuckoos,Cuculiformes,Cuculidae,,
-481,Shining bronze cuckoo,Chalcites lucidus,,Cuckoos,Cuculiformes,Cuculidae,,
-482,Little bronze cuckoo,Chalcites minutillus,,Cuckoos,Cuculiformes,Cuculidae,,
-483,Pallid cuckoo,Cacomantis pallidus,,Cuckoos,Cuculiformes,Cuculidae,,
-484,Chestnut-breasted cuckoo,Cacomantis castaneiventris,,Cuckoos,Cuculiformes,Cuculidae,,
-485,Fan-tailed cuckoo,Cacomantis flabelliformis,,Cuckoos,Cuculiformes,Cuculidae,,
-486,Brush cuckoo,Cacomantis variolosus,,Cuckoos,Cuculiformes,Cuculidae,,
-487,Oriental cuckoo,Cuculus optatus,,Cuckoos,Cuculiformes,Cuculidae,,
-488,Large hawk-cuckoo,Hierococcyx sparverioides,"vagrant, Christmas Island",Cuckoos,Cuculiformes,Cuculidae,,
-489,Powerful owl,Ninox strenua,,True owls,Strigiformes,Strigidae,,
-490,Rufous owl,Ninox rufa,,True owls,Strigiformes,Strigidae,,
-491,Barking owl,Ninox connivens,,True owls,Strigiformes,Strigidae,,
-492,Southern boobook,Ninox boobook,,True owls,Strigiformes,Strigidae,,
-493,Brown hawk-owl,Ninox scutulata,"vagrant, Ashmore Reef",True owls,Strigiformes,Strigidae,,
-494,Christmas Island hawk-owl,Ninox natalis,Christmas Island,True owls,Strigiformes,Strigidae,,
-495,Buffy fish owl,Bubo ketupu,"vagrant, Cocos (Keeling) Islands",True owls,Strigiformes,Strigidae,,
-496,Greater sooty owl,Tyto tenebricosa,,Barn owls,Strigiformes,Tytonidae,,
-497,Lesser sooty owl,Tyto multipunctata,,Barn owls,Strigiformes,Tytonidae,,
-498,Masked owl,Tyto novaehollandiae,,Barn owls,Strigiformes,Tytonidae,,
-499,Eastern barn owl,Tyto delicatula,,Barn owls,Strigiformes,Tytonidae,,
-500,Eastern grass owl,Tyto longimembris,,Barn owls,Strigiformes,Tytonidae,,
-501,Common kingfisher,Alcedo atthis,"vagrant, Christmas Island",Kingfishers,Coraciiformes,Alcedinidae,,
-502,Azure kingfisher,Ceyx azureus,,Kingfishers,Coraciiformes,Alcedinidae,,
-503,Little kingfisher,Ceyx pusillus,,Kingfishers,Coraciiformes,Alcedinidae,,
-504,Buff-breasted paradise kingfisher,Tanysiptera sylvia,,Kingfishers,Coraciiformes,Alcedinidae,,
-505,Little paradise kingfisher,Tanysiptera hydrocharis,vagrant,Kingfishers,Coraciiformes,Alcedinidae,,
-506,Common paradise kingfisher,Tanysiptera galatea,vagrant,Kingfishers,Coraciiformes,Alcedinidae,,
-507,Laughing kookaburra,Dacelo novaeguineae,,Kingfishers,Coraciiformes,Alcedinidae,,
-508,Blue-winged kookaburra,Dacelo leachii,,Kingfishers,Coraciiformes,Alcedinidae,,
-509,Yellow-billed kingfisher,Syma torotoro,,Kingfishers,Coraciiformes,Alcedinidae,,
-510,Forest kingfisher,Todiramphus macleayii,,Kingfishers,Coraciiformes,Alcedinidae,,
-511,Red-backed kingfisher,Todiramphus pyrrhopygia,,Kingfishers,Coraciiformes,Alcedinidae,,
-512,Sacred kingfisher,Todiramphus sanctus,,Kingfishers,Coraciiformes,Alcedinidae,,
-513,Torresian kingfisher,Todiramphus sordidus,,Kingfishers,Coraciiformes,Alcedinidae,,
-514,Black-capped kingfisher,Halcyon pileata,vagrant,Kingfishers,Coraciiformes,Alcedinidae,,
-515,Rainbow bee-eater,Merops ornatus,,Bee-eaters,Coraciiformes,Meropidae,,
-516,Dollarbird,Eurystomus orientalis,,Rollers,Coraciiformes,Coraciidae,,
-517,Papuan pitta,Erythropitta macklotii,,Pittas,Passeriformes,Pittidae,,
-518,Blue-winged pitta,Pitta moluccensis,vagrant,Pittas,Passeriformes,Pittidae,,
-519,Noisy pitta,Pitta versicolor,,Pittas,Passeriformes,Pittidae,,
-520,Rainbow pitta,Pitta iris,,Pittas,Passeriformes,Pittidae,,
-521,Fairy pitta,Pitta nympha,vagrant,Pittas,Passeriformes,Pittidae,,
-522,Albert's lyrebird,Menura alberti,,Lyrebirds,Passeriformes,Menuridae,,
-523,Superb lyrebird,Menura novaehollandiae,,Lyrebirds,Passeriformes,Menuridae,,
-524,Rufous scrubbird,Atrichornis rufescens,,Scrubbirds,Passeriformes,Atrichornithidae,,
-525,Noisy scrubbird,Atrichornis clamosus,,Scrubbirds,Passeriformes,Atrichornithidae,,
-526,White-throated treecreeper,Cormobates leucophaea,,Australasian treecreepers,Passeriformes,Climacteridae,,
-527,White-browed treecreeper,Climacteris affinis,,Australasian treecreepers,Passeriformes,Climacteridae,,
-528,Red-browed treecreeper,Climacteris erythrops,,Australasian treecreepers,Passeriformes,Climacteridae,,
-529,Brown treecreeper,Climacteris picumnus,,Australasian treecreepers,Passeriformes,Climacteridae,,
-530,Black-tailed treecreeper,Climacteris melanura,,Australasian treecreepers,Passeriformes,Climacteridae,,
-531,Rufous treecreeper,Climacteris rufa,,Australasian treecreepers,Passeriformes,Climacteridae,,
-532,Spotted catbird,Ailuroedus maculosus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-533,Green catbird,Ailuroedus crassirostris,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-534,Black-eared catbird,Ailuroedus melanotis,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-535,Tooth-billed bowerbird,Scenopoeetes dentirostris,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-536,Golden bowerbird,Amblyornis newtonianus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-537,Regent bowerbird,Sericulus chrysocephalus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-538,Satin bowerbird,Ptilonorhynchus violaceus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-539,Spotted bowerbird,Ptilonorhynchus maculatus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-540,Western bowerbird,Ptilonorhynchus guttatus,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-541,Great bowerbird,Ptilonorhynchus nuchalis,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-542,Fawn-breasted bowerbird,Ptilonorhynchus cerviniventris,,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae,,
-543,Superb fairywren,Malurus cyaneus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-544,Splendid fairywren,Malurus splendens,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-545,Purple-crowned fairywren,Malurus coronatus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-546,Red-backed fairywren,Malurus melanocephalus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-547,White-winged fairywren,Malurus leucopterus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-548,Variegated fairywren,Malurus lamberti,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-549,Lovely fairywren,Malurus amabilis,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-550,Blue-breasted fairywren,Malurus pulcherrimus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-551,Red-winged fairywren,Malurus elegans,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-552,Southern emu-wren,Stipiturus malachurus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-553,Mallee emu-wren,Stipiturus mallee,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-554,Rufous-crowned emu-wren,Stipiturus ruficeps,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-555,Grey grasswren,Amytornis barbatus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-556,Striated grasswren,Amytornis striatus,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-557,Short-tailed grasswren,Amytornis merrotsyi,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-558,White-throated grasswren,Amytornis woodwardi,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-559,Carpentarian grasswren,Amytornis dorotheae,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-560,Thick-billed grasswren,Amytornis textilis,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-561,Dusky grasswren,Amytornis purnelli,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-562,Kalkadoon grasswren,Amytornis ballarae,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-563,Eyrean grasswren,Amytornis goyderi,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-564,Black grasswren,Amytornis housei,,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae,,
-565,Eastern bristlebird,Dasyornis brachypterus,,Bristlebirds,Passeriformes,Dasyornithidae,,
-566,Western bristlebird,Dasyornis longirostris,,Bristlebirds,Passeriformes,Dasyornithidae,,
-567,Rufous bristlebird,Dasyornis broadbenti,,Bristlebirds,Passeriformes,Dasyornithidae,,
-568,Pilotbird,Pycnoptilus floccosus,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-569,Rockwarbler,Origma solitaria,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-570,Fernwren,Oreoscopus gutturalis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-571,Yellow-throated scrubwren,Sericornis citreogularis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-572,White-browed scrubwren,Sericornis frontalis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-573,Tasmanian scrubwren,Sericornis humilis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-574,Atherton scrubwren,Sericornis keri,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-575,Large-billed scrubwren,Sericornis magnirostra,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-576,Tropical scrubwren,Sericornis beccarii,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-577,Scrubtit,Acanthornis magna,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-578,Chestnut-rumped heathwren,Hylacola pyrrhopygia,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-579,Shy heathwren,Hylacola cauta,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-580,Striated fieldwren,Calamanthus fuliginosus,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-581,Rufous fieldwren,Calamanthus campestris,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-582,Redthroat,Pyrrholaemus brunneus,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-583,Speckled warbler,Chthonicola sagittatus,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-584,Weebill,Smicrornis brevirostris,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-585,Brown gerygone,Gerygone mouki,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-586,Norfolk Island gerygone,Gerygone modesta,Norfolk Island,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-587,Lord Howe gerygone,Gerygone insularis,"extinct, Lord Howe Island","Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-588,Mangrove gerygone,Gerygone levigaster,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-589,Western gerygone,Gerygone fusca,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-590,Dusky gerygone,Gerygone tenebrosa,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-591,Large-billed gerygone,Gerygone magnirostris,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-592,Green-backed gerygone,Gerygone chloronota,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-593,Fairy gerygone,Gerygone palpebrosa,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-594,White-throated gerygone,Gerygone albogularis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-595,Slaty-backed thornbill,Acanthiza robustirostris,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-596,Striated thornbill,Acanthiza lineata,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-597,Yellow thornbill,Acanthiza nana,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-598,Yellow-rumped thornbill,Acanthiza chrysorrhoa,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-599,Chestnut-rumped thornbill,Acanthiza uropygialis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-600,Buff-rumped thornbill,Acanthiza reguloides,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-601,Western thornbill,Acanthiza inornata,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-602,Slender-billed thornbill,Acanthiza iredalei,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-603,Tasmanian thornbill,Acanthiza ewingii,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-604,Inland thornbill,Acanthiza apicalis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-605,Brown thornbill,Acanthiza pusilla,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-606,Mountain thornbill,Acanthiza katherina,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-607,Southern whiteface,Aphelocephala leucopsis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-608,Chestnut-breasted whiteface,Aphelocephala pectoralis,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-609,Banded whiteface,Aphelocephala nigricincta,,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae,,
-610,Spotted pardalote,Pardalotus punctatus,,Pardalotes,Passeriformes,Pardalotidae,,
-611,Forty-spotted pardalote,Pardalotus quadragintus,,Pardalotes,Passeriformes,Pardalotidae,,
-612,Red-browed pardalote,Pardalotus rubricatus,,Pardalotes,Passeriformes,Pardalotidae,,
-613,Striated pardalote,Pardalotus striatus,,Pardalotes,Passeriformes,Pardalotidae,,
-614,Eastern spinebill,Acanthorhynchus tenuirostris,,Honeyeaters,Passeriformes,Meliphagidae,,
-615,Western spinebill,Acanthorhynchus superciliosus,,Honeyeaters,Passeriformes,Meliphagidae,,
-616,Pied honeyeater,Certhionyx variegatus,,Honeyeaters,Passeriformes,Meliphagidae,,
-617,Lewin's honeyeater,Meliphaga lewinii,,Honeyeaters,Passeriformes,Meliphagidae,,
-618,Yellow-spotted honeyeater,Meliphaga notata,,Honeyeaters,Passeriformes,Meliphagidae,,
-619,Graceful honeyeater,Meliphaga gracilis,,Honeyeaters,Passeriformes,Meliphagidae,,
-620,White-lined honeyeater,Meliphaga albilineata,,Honeyeaters,Passeriformes,Meliphagidae,,
-621,Kimberley honeyeater,Meliphaga fordiana,,Honeyeaters,Passeriformes,Meliphagidae,,
-622,Bridled honeyeater,Bolemoreus frenatus,,Honeyeaters,Passeriformes,Meliphagidae,,
-623,Eungella honeyeater,Bolemoreus hindwoodi,,Honeyeaters,Passeriformes,Meliphagidae,,
-624,Yellow-faced honeyeater,Caligavis chrysops,,Honeyeaters,Passeriformes,Meliphagidae,,
-625,Singing honeyeater,Gavicalis virescens,,Honeyeaters,Passeriformes,Meliphagidae,,
-626,Varied honeyeater,Gavicalis versicolor,,Honeyeaters,Passeriformes,Meliphagidae,,
-627,Mangrove honeyeater,Gavicalis fasciogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-628,White-gaped honeyeater,Stomiopera unicolor,,Honeyeaters,Passeriformes,Meliphagidae,,
-629,Yellow honeyeater,Stomiopera flava,,Honeyeaters,Passeriformes,Meliphagidae,,
-630,White-eared honeyeater,Nesoptilotis leucotis,,Honeyeaters,Passeriformes,Meliphagidae,,
-631,Yellow-throated honeyeater,Nesoptilotis flavicollis,,Honeyeaters,Passeriformes,Meliphagidae,,
-632,Yellow-tufted honeyeater,Lichenostomus melanops,,Honeyeaters,Passeriformes,Meliphagidae,,
-633,Purple-gaped honeyeater,Lichenostomus cratitius,,Honeyeaters,Passeriformes,Meliphagidae,,
-634,Grey-headed honeyeater,Ptilotula keartlandi,,Honeyeaters,Passeriformes,Meliphagidae,,
-635,Yellow-plumed honeyeater,Ptilotula ornata,,Honeyeaters,Passeriformes,Meliphagidae,,
-636,Grey-fronted honeyeater,Ptilotula plumula,,Honeyeaters,Passeriformes,Meliphagidae,,
-637,Fuscous honeyeater,Ptilotula fusca,,Honeyeaters,Passeriformes,Meliphagidae,,
-638,Yellow-tinted honeyeater,Ptilotula flavescens,,Honeyeaters,Passeriformes,Meliphagidae,,
-639,White-plumed honeyeater,Ptilotula penicillata,,Honeyeaters,Passeriformes,Meliphagidae,,
-640,White-fronted honeyeater,Purnella albifrons,,Honeyeaters,Passeriformes,Meliphagidae,,
-641,Bell miner,Manorina melanophrys,,Honeyeaters,Passeriformes,Meliphagidae,,
-642,Noisy miner,Manorina melanocephala,,Honeyeaters,Passeriformes,Meliphagidae,,
-643,Black-eared miner,Manorina melanotis,,Honeyeaters,Passeriformes,Meliphagidae,,
-644,Yellow-throated miner,Manorina flavigula,,Honeyeaters,Passeriformes,Meliphagidae,,
-645,Spiny-cheeked honeyeater,Acanthagenys rufogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-646,Western wattlebird,Anthochaera lunulata,,Honeyeaters,Passeriformes,Meliphagidae,,
-647,Little wattlebird,Anthochaera chrysoptera,,Honeyeaters,Passeriformes,Meliphagidae,,
-648,Regent honeyeater,Anthochaera phrygia,,Honeyeaters,Passeriformes,Meliphagidae,,
-649,Red wattlebird,Anthochaera carunculata,,Honeyeaters,Passeriformes,Meliphagidae,,
-650,Yellow wattlebird,Anthochaera paradoxa,,Honeyeaters,Passeriformes,Meliphagidae,,
-651,Brown-backed honeyeater,Ramsayornis modestus,,Honeyeaters,Passeriformes,Meliphagidae,,
-652,Bar-breasted honeyeater,Ramsayornis fasciatus,,Honeyeaters,Passeriformes,Meliphagidae,,
-653,Rufous-banded honeyeater,Conopophila albogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-654,Rufous-throated honeyeater,Conopophila rufogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-655,Grey honeyeater,Conopophila whitei,,Honeyeaters,Passeriformes,Meliphagidae,,
-656,Black honeyeater,Sugomel niger,,Honeyeaters,Passeriformes,Meliphagidae,,
-657,Dusky honeyeater,Myzomela obscura,,Honeyeaters,Passeriformes,Meliphagidae,,
-658,Red-headed honeyeater,Myzomela erythrocephala,,Honeyeaters,Passeriformes,Meliphagidae,,
-659,Scarlet honeyeater,Myzomela sanguinolenta,,Honeyeaters,Passeriformes,Meliphagidae,,
-660,Green-backed honeyeater,Glycichaera fallax,,Honeyeaters,Passeriformes,Meliphagidae,,
-661,Tawny-crowned honeyeater,Gliciphila melanops,,Honeyeaters,Passeriformes,Meliphagidae,,
-662,Banded honeyeater,Cissomela pectoralis,,Honeyeaters,Passeriformes,Meliphagidae,,
-663,Brown honeyeater,Lichmera indistincta,,Honeyeaters,Passeriformes,Meliphagidae,,
-664,Crescent honeyeater,Phylidonyris pyrrhoptera,,Honeyeaters,Passeriformes,Meliphagidae,,
-665,New Holland honeyeater,Phylidonyris novaehollandiae,,Honeyeaters,Passeriformes,Meliphagidae,,
-666,White-cheeked honeyeater,Phylidonyris nigra,,Honeyeaters,Passeriformes,Meliphagidae,,
-667,White-streaked honeyeater,Trichodere cockerelli,,Honeyeaters,Passeriformes,Meliphagidae,,
-668,Black-chinned honeyeater,Melithreptus gularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-669,Strong-billed honeyeater,Melithreptus validirostris,,Honeyeaters,Passeriformes,Meliphagidae,,
-670,Brown-headed honeyeater,Melithreptus brevirostris,,Honeyeaters,Passeriformes,Meliphagidae,,
-671,White-throated honeyeater,Melithreptus albogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-672,White-naped honeyeater,Melithreptus lunatus,,Honeyeaters,Passeriformes,Meliphagidae,,
-673,Gilbert's honeyeater,Melithreptus chloropsis,,Honeyeaters,Passeriformes,Meliphagidae,,
-674,Black-headed honeyeater,Melithreptus affinis,,Honeyeaters,Passeriformes,Meliphagidae,,
-675,Blue-faced honeyeater,Entomyzon cyanotis,,Honeyeaters,Passeriformes,Meliphagidae,,
-676,Helmeted friarbird,Philemon buceroides,,Honeyeaters,Passeriformes,Meliphagidae,,
-677,Silver-crowned friarbird,Philemon argenticeps,,Honeyeaters,Passeriformes,Meliphagidae,,
-678,Noisy friarbird,Philemon corniculatus,,Honeyeaters,Passeriformes,Meliphagidae,,
-679,Little friarbird,Philemon citreogularis,,Honeyeaters,Passeriformes,Meliphagidae,,
-680,Macleay's honeyeater,Xanthotis macleayana,,Honeyeaters,Passeriformes,Meliphagidae,,
-681,Tawny-breasted honeyeater,Xanthotis flaviventer,,Honeyeaters,Passeriformes,Meliphagidae,,
-682,Striped honeyeater,Plectorhyncha lanceolata,,Honeyeaters,Passeriformes,Meliphagidae,,
-683,Painted honeyeater,Grantiella picta,,Honeyeaters,Passeriformes,Meliphagidae,,
-684,Crimson chat,Epthianura tricolor,,Honeyeaters,Passeriformes,Meliphagidae,,
-685,Orange chat,Epthianura aurifrons,,Honeyeaters,Passeriformes,Meliphagidae,,
-686,Yellow chat,Epthianura crocea,,Honeyeaters,Passeriformes,Meliphagidae,,
-687,White-fronted chat,Epthianura albifrons,,Honeyeaters,Passeriformes,Meliphagidae,,
-688,Gibberbird,Ashbyia lovensis,,Honeyeaters,Passeriformes,Meliphagidae,,
-689,Grey-crowned babbler,Pomatostomus temporalis,,Babblers,Passeriformes,Pomatostomidae,,
-690,Hall's babbler,Pomatostomus halli,,Babblers,Passeriformes,Pomatostomidae,,
-691,White-browed babbler,Pomatostomus superciliosus,,Babblers,Passeriformes,Pomatostomidae,,
-692,Chestnut-crowned babbler,Pomatostomus ruficeps,,Babblers,Passeriformes,Pomatostomidae,,
-693,Australian logrunner,Orthonyx temminckii,,Logrunner and chowchilla,Passeriformes,Orthonychidae,,
-694,Chowchilla,Orthonyx spaldingii,,Logrunner and chowchilla,Passeriformes,Orthonychidae,,
-695,Spotted quail-thrush,Cinclosoma punctatum,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-696,Chestnut quail-thrush,Cinclosoma castanotum,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-697,Cinnamon quail-thrush,Cinclosoma cinnamomeum,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-698,Copperback quail-thrush,Cinclosoma clarum,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-699,Nullarbor quail-thrush,Cinclosoma alisteri,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-700,Chestnut-breasted quail-thrush,Cinclosoma castaneothorax,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-701,Western quail-thrush,Cinclosoma marginatum,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-702,Eastern whipbird,Psophodes olivaceus,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-703,Western whipbird,Psophodes nigrogularis,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-704,Chirruping wedgebill,Psophodes cristatus,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-705,Chiming wedgebill,Psophodes occidentalis,,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae,,
-706,Varied sittella,Daphoenositta chrysoptera,,Sittella,Passeriformes,Neosittidae,,
-707,Ground cuckooshrike,Coracina maxima,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-708,Black-faced cuckooshrike,Coracina novaehollandiae,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-709,White-bellied cuckooshrike,Coracina papuensis,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-710,Barred cuckooshrike,Coracina lineata,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-711,Cicadabird,Coracina tenuirostris,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-712,White-winged triller,Lalage sueurii,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-713,Varied triller,Lalage leucomela,,Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-714,Long-tailed triller,Lalage leucopyga,"extinct, Norfolk Island",Cuckooshrikes and trillers,Passeriformes,Campephagidae,,
-715,Crested shriketit,Falcunculus frontatus,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-716,Olive whistler,Pachycephala olivacea,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-717,Red-lored whistler,Pachycephala rufogularis,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-718,Gilbert's whistler,Pachycephala inornata,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-719,Australian golden whistler,Pachycephala pectoralis,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-720,Mangrove golden whistler,Pachycephala melanura,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-721,Western whistler,Pachycephala occidentalis,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-722,Grey whistler,Pachycephala simplex,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-723,Rufous whistler,Pachycephala rufiventris,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-724,White-breasted whistler,Pachycephala lanioides,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-725,Little shrikethrush,Colluricincla megarhyncha,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-726,Bower's shrikethrush,Colluricincla boweri,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-727,Sandstone shrikethrush,Colluricincla woodwardi,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-728,Grey shrikethrush,Colluricincla harmonica,,Whistlers and allies,Passeriformes,Pachycephalidae,,
-729,Crested bellbird,Oreoica gutturalis,,Oreoicids,Passeriformes,Oreoicidae,,
-730,Australasian figbird,Sphecotheres vieilloti,,Figbird and orioles,Passeriformes,Oriolidae,,
-731,Yellow oriole,Oriolus flavocinctus,,Figbird and orioles,Passeriformes,Oriolidae,,
-732,Olive-backed oriole,Oriolus sagittatus,,Figbird and orioles,Passeriformes,Oriolidae,,
-733,White-breasted woodswallow,Artamus leucorynchus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-734,Masked woodswallow,Artamus personatus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-735,White-browed woodswallow,Artamus superciliosus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-736,Black-faced woodswallow,Artamus cinereus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-737,Dusky woodswallow,Artamus cyanopterus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-738,Little woodswallow,Artamus minor,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-739,Black butcherbird,Cracticus quoyi,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-740,Grey butcherbird,Cracticus torquatus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-741,Silver-backed butcherbird,Cracticus argenteus,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-742,Black-backed butcherbird,Cracticus mentalis,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-743,Pied butcherbird,Cracticus nigrogularis,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-744,Australian magpie,Cracticus tibicen,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-745,Pied currawong,Strepera graculina,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-746,Black currawong,Strepera fuliginosa,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-747,Grey currawong,Strepera versicolor,,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae,,
-748,Spangled drongo,Dicrurus bracteatus,,Drongo,Passeriformes,Dicruridae,,
-749,Rufous fantail,Rhipidura rufifrons,,Fantails,Passeriformes,Rhipiduridae,,
-750,Arafura fantail,Rhipidura dryas,,Fantails,Passeriformes,Rhipiduridae,,
-751,New Zealand fantail,Rhipidura fuliginosa,"extinct, Lord Howe Island",Fantails,Passeriformes,Rhipiduridae,,
-752,Grey fantail,Rhipidura albiscapa,,Fantails,Passeriformes,Rhipiduridae,,
-753,Mangrove grey fantail,Rhipidura phasiana,,Fantails,Passeriformes,Rhipiduridae,,
-754,Northern fantail,Rhipidura rufiventris,,Fantails,Passeriformes,Rhipiduridae,,
-755,Willie wagtail,Rhipidura leucophrys,,Fantails,Passeriformes,Rhipiduridae,,
-756,Brown shrike,Lanius cristatus,"vagrant, Christmas Island",Shrikes,Passeriformes,Laniidae,,
-757,Tiger shrike,Lanius tigrinus,vagrant,Shrikes,Passeriformes,Laniidae,,
-758,Australian raven,Corvus coronoides,,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-759,Forest raven,Corvus tasmanicus,,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-760,Little raven,Corvus mellori,,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-761,Little crow,Corvus bennetti,,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-762,Torresian crow,Corvus orru,,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-763,House crow,Corvus splendens,vagrant,"Magpie, crows and ravens",Passeriformes,Corvidae,,
-764,Broad-billed flycatcher,Myiagra ruficollis,,Monarch flycatchers,Passeriformes,Monarchidae,,
-765,Leaden flycatcher,Myiagra rubecula,,Monarch flycatchers,Passeriformes,Monarchidae,,
-766,Satin flycatcher,Myiagra cyanoleuca,,Monarch flycatchers,Passeriformes,Monarchidae,,
-767,Shining flycatcher,Myiagra alecto,,Monarch flycatchers,Passeriformes,Monarchidae,,
-768,Restless flycatcher,Myiagra inquieta,,Monarch flycatchers,Passeriformes,Monarchidae,,
-769,White-eared monarch,Carterornis leucotis,,Monarch flycatchers,Passeriformes,Monarchidae,,
-770,Black-faced monarch,Monarcha melanopsis,,Monarch flycatchers,Passeriformes,Monarchidae,,
-771,Black-winged monarch,Monarcha frater,,Monarch flycatchers,Passeriformes,Monarchidae,,
-772,Island monarch,Monarcha cinerascens,"vagrant, Ashmore Reef",Monarch flycatchers,Passeriformes,Monarchidae,,
-773,Spectacled monarch,Symposiachrus trivirgatus,,Monarch flycatchers,Passeriformes,Monarchidae,,
-774,Magpie-lark,Grallina cyanoleuca,,Monarch flycatchers,Passeriformes,Monarchidae,,
-775,Frilled monarch,Arses telescophthalmus,,Monarch flycatchers,Passeriformes,Monarchidae,,
-776,Pied monarch,Arses kaupi,,Monarch flycatchers,Passeriformes,Monarchidae,,
-777,Yellow-breasted boatbill,Machaerirhynchus flaviventer,,Monarch flycatchers,Passeriformes,Monarchidae,,
-778,White-winged chough,Corcorax melanorhamphos,,Chough and apostlebird,Passeriformes,Corcoracidae,,
-779,Apostlebird,Struthidea cinerea,,Chough and apostlebird,Passeriformes,Corcoracidae,,
-780,Trumpet manucode,Phonygammus keraudrenii,,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae,,
-781,Paradise riflebird,Ptiloris paradiseus,,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae,,
-782,Victoria's riflebird,Ptiloris victoriae,,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae,,
-783,Magnificent riflebird,Ptiloris magnificus,,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae,,
-784,Jacky winter,Microeca fascinans,,Australasian robins,Passeriformes,Petroicidae,,
-785,Lemon-bellied flycatcher,Microeca flavigaster,,Australasian robins,Passeriformes,Petroicidae,,
-786,Yellow-legged flycatcher,Microeca griseoceps,,Australasian robins,Passeriformes,Petroicidae,,
-787,Norfolk robin,Petroica multicolor,,Australasian robins,Passeriformes,Petroicidae,,
-788,Scarlet robin,Petroica boodang,,Australasian robins,Passeriformes,Petroicidae,,
-789,Red-capped robin,Petroica goodenovii,,Australasian robins,Passeriformes,Petroicidae,,
-790,Flame robin,Petroica phoenicea,,Australasian robins,Passeriformes,Petroicidae,,
-791,Rose robin,Petroica rosea,,Australasian robins,Passeriformes,Petroicidae,,
-792,Pink robin,Petroica rodinogaster,,Australasian robins,Passeriformes,Petroicidae,,
-793,Hooded robin,Melanodryas cucullata,,Australasian robins,Passeriformes,Petroicidae,,
-794,Dusky robin,Melanodryas vittata,,Australasian robins,Passeriformes,Petroicidae,,
-795,Pale-yellow robin,Tregellasia capito,,Australasian robins,Passeriformes,Petroicidae,,
-796,White-faced robin,Tregellasia leucops,,Australasian robins,Passeriformes,Petroicidae,,
-797,Eastern yellow robin,Eopsaltria australis,,Australasian robins,Passeriformes,Petroicidae,,
-798,Western yellow robin,Eopsaltria griseogularis,,Australasian robins,Passeriformes,Petroicidae,,
-799,White-breasted robin,Eopsaltria georgiana,,Australasian robins,Passeriformes,Petroicidae,,
-800,Mangrove robin,Peneonanthe pulverulenta,,Australasian robins,Passeriformes,Petroicidae,,
-801,Grey-headed robin,Heteromyias cinereifrons,,Australasian robins,Passeriformes,Petroicidae,,
-802,White-browed robin,Poecilodryas superciliosa,,Australasian robins,Passeriformes,Petroicidae,,
-803,Buff-sided robin,Poecilodryas cerviniventris,,Australasian robins,Passeriformes,Petroicidae,,
-804,Northern scrub robin,Drymodes superciliaris,,Australasian robins,Passeriformes,Petroicidae,,
-805,Southern scrub robin,Drymodes brunneopygia,,Australasian robins,Passeriformes,Petroicidae,,
-806,Horsfield's bushlark,Mirafra javanica,,Larks,Passeriformes,Alaudidae,,
-807,Eurasian skylark,Alauda arvensis,introduced,Larks,Passeriformes,Alaudidae,,
-808,Zitting cisticola,Cisticola juncidis,,Cisticolas and allies,Passeriformes,Cisticolidae,,
-809,Golden-headed cisticola,Cisticola exilis,,Cisticolas and allies,Passeriformes,Cisticolidae,,
-810,Australian reed warbler,Acrocephalus australis,,Reed warblers,Passeriformes,Acrocephalidae,,
-811,Oriental reed warbler,Acrocephalus orientalis,vagrant,Reed warblers,Passeriformes,Acrocephalidae,,
-812,Tawny grassbird,Megalurus timoriensis,,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae,,
-813,Little grassbird,Megalurus gramineus,,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae,,
-814,Rufous songlark,Megalurus mathewsi,,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae,,
-815,Brown songlark,Megalurus cruralis,,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae,,
-816,Spinifexbird,Megalurus carteri,,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae,,
-817,Christmas Island white-eye,Zosterops natalis,Christmas Island,White-eyes,Passeriformes,Zosteropidae,,
-818,Pale white-eye,Zosterops citrinella,,White-eyes,Passeriformes,Zosteropidae,,
-819,Yellow white-eye,Zosterops luteus,,White-eyes,Passeriformes,Zosteropidae,,
-820,Silvereye,Zosterops lateralis,,White-eyes,Passeriformes,Zosteropidae,,
-821,Robust white-eye,Zosterops strenuus,"Lord Howe Island, extinct",White-eyes,Passeriformes,Zosteropidae,,
-822,Slender-billed white-eye,Zosterops tenuirostris,Norfolk Island,White-eyes,Passeriformes,Zosteropidae,,
-823,White-chested white-eye,Zosterops albogularis,"Norfolk Island, possibly extinct",White-eyes,Passeriformes,Zosteropidae,,
-824,Middendorff's grasshopper warbler,Locustella ochotensis,vagrant - Ashmore Reef,Old World warblers,Passeriformes,Sylviidae,,
-825,Pallas's grasshopper warbler,Locustella certhiola,vagrant - Christmas Island,Old World warblers,Passeriformes,Sylviidae,,
-826,Arctic warbler,Phylloscopus borealis,vagrant,Leaf-warblers,Passeriformes,Phylloscopidae,,
-827,Dusky warbler,Phylloscopus fuscatus,vagrant,Leaf-warblers,Passeriformes,Phylloscopidae,,
-828,White-backed swallow,Cheramoeca leucosternus,,Swallows,Passeriformes,Hirundinidae,,
-829,Barn swallow,Hirundo rustica,,Swallows,Passeriformes,Hirundinidae,,
-830,Welcome swallow,Hirundo neoxena,,Swallows,Passeriformes,Hirundinidae,,
-831,Fairy martin,Petrochelidon ariel,,Swallows,Passeriformes,Hirundinidae,,
-832,Tree martin,Petrochelidon nigricans,,Swallows,Passeriformes,Hirundinidae,,
-833,Red-rumped swallow,Cecropis daurica,vagrant,Swallows,Passeriformes,Hirundinidae,,
-834,Asian house martin,Delichon dasypus,"vagrant, Christmas Island",Swallows,Passeriformes,Hirundinidae,,
-835,Red-whiskered bulbul,Pycnonotus jocosus,introduced,Bulbuls,Passeriformes,Pycnonotidae,,
-836,Blue rock thrush,Monticola solitarius,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-837,Isabelline wheatear,Oenanthe isabellina,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-838,Narcissus flycatcher,Ficedula narcissina,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-839,Blue-and-white flycatcher,Cyanoptila cyanomelana,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-840,Dark-sided flycatcher,Muscicapa sibirica,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-841,Asian brown flycatcher,Muscicapa dauurica,vagrant,Old World flycatchers,Passeriformes,Muscicapidae,,
-842,Bassian thrush,Zoothera lunulata,,Thrushes and allies,Passeriformes,Turdidae,,
-843,Russet-tailed thrush,Zoothera heinei,,Thrushes and allies,Passeriformes,Turdidae,,
-844,Blackbird,Turdus merula,introduced,Thrushes and allies,Passeriformes,Turdidae,,
-845,Island thrush,Turdus poliocephalus,Christmas Island,Thrushes and allies,Passeriformes,Turdidae,,
-846,Song thrush,Turdus philomelos,introduced,Thrushes and allies,Passeriformes,Turdidae,,
-847,Singing starling,Aplonis cantoroides,Torres Strait,Starlings,Passeriformes,Sturnidae,,
-848,Tasman starling,Aplonis fusca,"extinct, Lord Howe Island, Norfolk Island",Starlings,Passeriformes,Sturnidae,,
-849,Metallic starling,Aplonis metallica,,Starlings,Passeriformes,Sturnidae,,
-850,Common starling,Sturnus vulgaris,introduced,Starlings,Passeriformes,Sturnidae,,
-851,Daurian starling,Agropsar sturninus,"vagrant, Christmas Island",Starlings,Passeriformes,Sturnidae,,
-852,Rosy starling,Pastor roseus,vagrant,Starlings,Passeriformes,Sturnidae,,
-853,Common myna,Acridotheres tristis,introduced,Starlings,Passeriformes,Sturnidae,,
-854,Red-capped flowerpecker,Dicaeum geelvinkianum,Torres Strait,Flowerpeckers,Passeriformes,Dicaeidae,,
-855,Mistletoebird,Dicaeum hirundinaceum,,Flowerpeckers,Passeriformes,Dicaeidae,,
-856,Olive-backed sunbird,Nectarinia jugularis,,Sunbirds and spiderhunters,Passeriformes,Nectariniidae,,
-857,Zebra finch,Taeniopygia guttata,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-858,Double-barred finch,Taeniopygia bichenovii,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-859,Long-tailed finch,Poephila acuticauda,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-860,Black-throated finch,Poephila cincta,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-861,Masked finch,Poephila personata,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-862,Crimson finch,Neochmia phaeton,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-863,Star finch,Neochmia ruficauda,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-864,Plum-headed finch,Neochmia modesta,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-865,Red-browed finch,Neochmia temporalis,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-866,Diamond firetail,Stagonopleura guttata,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-867,Beautiful firetail,Stagonopleura bella,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-868,Red-eared firetail,Stagonopleura oculata,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-869,Painted finch,Emblema pictum,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-870,Blue-faced parrotfinch,Erythrura trichroa,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-871,Gouldian finch,Erythrura gouldiae,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-872,Nutmeg mannikin,Lonchura punctulata,introduced,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-873,Pale-headed munia,Lonchura pallida,"vagrant, Ashmore Reef","Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-874,Yellow-rumped mannikin,Lonchura flaviprymna,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-875,Chestnut-breasted mannikin,Lonchura castaneothorax,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-876,Java sparrow,Lonchura oryzivora,"introduced, Christmas Island","Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-877,Pictorella mannikin,Heteromunia pectoralis,,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae,,
-878,House sparrow,Passer domesticus,introduced,Old World sparrows,Passeriformes,Passeridae,,
-879,Eurasian tree sparrow,Passer montanus,introduced,Old World sparrows,Passeriformes,Passeridae,,
-880,Australasian pipit,Anthus novaeseelandiae,,Wagtails and pipits,Passeriformes,Motacillidae,,
-881,Red-throated pipit,Anthus cervinus,vagrant,Wagtails and pipits,Passeriformes,Motacillidae,,
-882,Pechora pipit,Anthus gustavi,"vagrant, Ashmore Reef",Wagtails and pipits,Passeriformes,Motacillidae,,
-883,Eastern yellow wagtail,Motacilla tschutschensis,,Wagtails and pipits,Passeriformes,Motacillidae,,
-884,Green-headed yellow wagtail,Motacilla taivana,,Wagtails and pipits,Passeriformes,Motacillidae,,
-885,Citrine wagtail,Motacilla citreola,vagrant,Wagtails and pipits,Passeriformes,Motacillidae,,
-886,Grey wagtail,Motacilla cinerea,vagrant,Wagtails and pipits,Passeriformes,Motacillidae,,
-887,White wagtail,Motacilla alba,vagrant,Wagtails and pipits,Passeriformes,Motacillidae,,
-888,Common chaffinch,Fringilla coelebs,"introduced vagrant, Lord Howe Island, Norfolk Island","Finches, crossbills and allies",Passeriformes,Fringillidae,,
-889,European goldfinch,Carduelis carduelis,introduced,"Finches, crossbills and allies",Passeriformes,Fringillidae,,
-890,Common redpoll,Acanthis flammea,"introduced vagrant, Lord Howe Island, Macquarie Island","Finches, crossbills and allies",Passeriformes,Fringillidae,,
-891,European greenfinch,Chloris chloris,introduced,"Finches, crossbills and allies",Passeriformes,Fringillidae,,
-892,Yellowhammer,Emberiza citrinella,"vagrant, Lord Howe Island","Buntings, seedeaters and allies",Passeriformes,Emberizidae,,
+,Common name,Binomial,Category,Order,Family
+0,Southern cassowary,Casuarius casuarius,Cassowaries,Casuariformes,Casuariidae
+1,Emu,Dromaius novaehollandiae,Emus,Casuariformes,Dromaiidae
+2,King Island emu,Dromaius ater,Emus,Casuariformes,Dromaiidae
+3,Kangaroo Island emu,Dromaius baudinianus,Emus,Casuariformes,Dromaiidae
+4,Australian brushturkey,Alectura lathami,Mound-builders,Galliformes,Megapodidae
+5,Malleefowl,Leipoa ocellata,Mound-builders,Galliformes,Megapodidae
+6,Orange-footed scrubfowl,Megapodius reinwardt,Mound-builders,Galliformes,Megapodidae
+7,Stubble quail,Coturnix pectoralis,Pheasants,Galliformes,Phasianidae
+8,Brown quail,Coturnix ypsilophora,Pheasants,Galliformes,Phasianidae
+9,King quail,Excalfactoria chinensis,Pheasants,Galliformes,Phasianidae
+10,Indian peafowl,Pavo cristatus,Pheasants,Galliformes,Phasianidae
+11,Red junglefowl,Gallus gallus,Pheasants,Galliformes,Phasianidae
+12,Green junglefowl,Gallus varius,Pheasants,Galliformes,Phasianidae
+13,Common pheasant,Phasianus colchicus,Pheasants,Galliformes,Phasianidae
+14,Wild turkey,Meleagris gallopavo,Pheasants,Galliformes,Phasianidae
+15,Helmeted guineafowl,Numida meleagris,Guineafowl,Galliformes,Numididae
+16,Magpie goose,Anseranas semipalmata,Magpie goose,Anseriformes,Anseranatidae
+17,Spotted whistling duck,Dendrocygna guttata,"Ducks, geese and swans",Anseriformes,Anatidae
+18,Plumed whistling duck,Dendrocygna eytoni,"Ducks, geese and swans",Anseriformes,Anatidae
+19,Wandering whistling duck,Dendrocygna arcuata,"Ducks, geese and swans",Anseriformes,Anatidae
+20,Musk duck,Biziura lobata,"Ducks, geese and swans",Anseriformes,Anatidae
+21,Freckled duck,Stictonetta naevosa,"Ducks, geese and swans",Anseriformes,Anatidae
+22,Cape Barren goose,Cereopsis novaehollandiae,"Ducks, geese and swans",Anseriformes,Anatidae
+23,Black swan,Cygnus atratus,"Ducks, geese and swans",Anseriformes,Anatidae
+24,Mute swan,Cygnus olor,"Ducks, geese and swans",Anseriformes,Anatidae
+25,Canada goose,Branta canadensis,"Ducks, geese and swans",Anseriformes,Anatidae
+26,Radjah shelduck,Tadorna radjah,"Ducks, geese and swans",Anseriformes,Anatidae
+27,Australian shelduck,Tadorna tadornoides,"Ducks, geese and swans",Anseriformes,Anatidae
+28,Paradise shelduck,Tadorna variegata,"Ducks, geese and swans",Anseriformes,Anatidae
+29,Australian wood duck,Chenonetta jubata,"Ducks, geese and swans",Anseriformes,Anatidae
+30,Pink-eared duck,Malacorhynchus membranaceus,"Ducks, geese and swans",Anseriformes,Anatidae
+31,Cotton pygmy goose,Nettapus coromandelianus,"Ducks, geese and swans",Anseriformes,Anatidae
+32,Green pygmy goose,Nettapus pulchellus,"Ducks, geese and swans",Anseriformes,Anatidae
+33,Garganey,Anas querquedula,"Ducks, geese and swans",Anseriformes,Anatidae
+34,Australasian shoveler,Anas rhynchotis,"Ducks, geese and swans",Anseriformes,Anatidae
+35,Northern shoveler,Anas clypeata,"Ducks, geese and swans",Anseriformes,Anatidae
+36,Grey teal,Anas gracilis,"Ducks, geese and swans",Anseriformes,Anatidae
+37,Chestnut teal,Anas castanea,"Ducks, geese and swans",Anseriformes,Anatidae
+38,Northern pintail,Anas acuta,"Ducks, geese and swans",Anseriformes,Anatidae
+39,Northern mallard,Anas platyrhynchos,"Ducks, geese and swans",Anseriformes,Anatidae
+40,Pacific black duck,Anas superciliosa,"Ducks, geese and swans",Anseriformes,Anatidae
+41,Hardhead,Aythya australis,"Ducks, geese and swans",Anseriformes,Anatidae
+42,Blue-billed duck,Oxyura australis,"Ducks, geese and swans",Anseriformes,Anatidae
+43,Red-tailed tropicbird,Phaethon rubricauda,Tropicbirds,Phaethontiformes,Phaethontidae
+44,White-tailed tropicbird,Phaethon lepturus,Tropicbirds,Phaethontiformes,Phaethontidae
+45,Australasian grebe,Tachybaptus novaehollandiae,Grebes,Podicipediformes,Podicipedidae
+46,Little grebe,Tachybaptus ruficollis,Grebes,Podicipediformes,Podicipedidae
+47,Hoary-headed grebe,Poliocephalus poliocephalus,Grebes,Podicipediformes,Podicipedidae
+48,Great crested grebe,Podiceps cristatus,Grebes,Podicipediformes,Podicipedidae
+49,Rock pigeon,Columba livia,Pigeons and doves,Columbiformes,Columbidae
+50,White-throated pigeon,Columba vitiensis,Pigeons and doves,Columbiformes,Columbidae
+51,White-headed pigeon,Columba leucomela,Pigeons and doves,Columbiformes,Columbidae
+52,Barbary dove,Streptopelia roseogrisea,Pigeons and doves,Columbiformes,Columbidae
+53,Red collared dove,Streptopelia tranquebarica,Pigeons and doves,Columbiformes,Columbidae
+54,Laughing dove,Spilopelia senegalensis,Pigeons and doves,Columbiformes,Columbidae
+55,Spotted dove,Spilopelia chinensis,Pigeons and doves,Columbiformes,Columbidae
+56,Brown cuckoo-dove,Macropygia phasianella,Pigeons and doves,Columbiformes,Columbidae
+57,Pacific emerald dove,Chalcophaps longirostris,Pigeons and doves,Columbiformes,Columbidae
+58,Common bronzewing,Phaps chalcoptera,Pigeons and doves,Columbiformes,Columbidae
+59,Brush bronzewing,Phaps elegans,Pigeons and doves,Columbiformes,Columbidae
+60,Flock bronzewing,Phaps histrionica,Pigeons and doves,Columbiformes,Columbidae
+61,Crested pigeon,Ocyphaps lophotes,Pigeons and doves,Columbiformes,Columbidae
+62,Spinifex pigeon,Geophaps plumifera,Pigeons and doves,Columbiformes,Columbidae
+63,Partridge pigeon,Geophaps smithii,Pigeons and doves,Columbiformes,Columbidae
+64,Squatter pigeon,Geophaps scripta,Pigeons and doves,Columbiformes,Columbidae
+65,White-quilled rock pigeon,Petrophassa albipennis,Pigeons and doves,Columbiformes,Columbidae
+66,Chestnut-quilled rock pigeon,Petrophassa rufipennis,Pigeons and doves,Columbiformes,Columbidae
+67,Diamond dove,Geopelia cuneata,Pigeons and doves,Columbiformes,Columbidae
+68,Peaceful dove,Geopelia striata,Pigeons and doves,Columbiformes,Columbidae
+69,Bar-shouldered dove,Geopelia humeralis,Pigeons and doves,Columbiformes,Columbidae
+70,Wonga pigeon,Leucosarcia melanoleuca,Pigeons and doves,Columbiformes,Columbidae
+71,Norfolk ground dove,Gallicolumba norfolciensis,Pigeons and doves,Columbiformes,Columbidae
+72,Black-banded fruit dove,Ptilinopus alligator,Pigeons and doves,Columbiformes,Columbidae
+73,Wompoo fruit dove,Ptilinopus magnificus,Pigeons and doves,Columbiformes,Columbidae
+74,Superb fruit dove,Ptilinopus superbus,Pigeons and doves,Columbiformes,Columbidae
+75,Rose-crowned fruit dove,Ptilinopus regina,Pigeons and doves,Columbiformes,Columbidae
+76,Orange-bellied fruit dove,Ptilinopus iozonus,Pigeons and doves,Columbiformes,Columbidae
+77,Elegant imperial pigeon,Ducula concinna,Pigeons and doves,Columbiformes,Columbidae
+78,Christmas imperial pigeon,Ducula whartoni,Pigeons and doves,Columbiformes,Columbidae
+79,Collared imperial pigeon,Ducula mullerii,Pigeons and doves,Columbiformes,Columbidae
+80,Torresian imperial pigeon,Ducula spilorrhoa,Pigeons and doves,Columbiformes,Columbidae
+81,Topknot pigeon,Lopholaimus antarcticus,Pigeons and doves,Columbiformes,Columbidae
+82,New Zealand pigeon,Hemiphaga novaeseelandiae,Pigeons and doves,Columbiformes,Columbidae
+83,Tawny frogmouth,Podargus strigoides,Frogmouths,Podargiformes,Podargidae
+84,Papuan frogmouth,Podargus papuensis,Frogmouths,Podargiformes,Podargidae
+85,Marbled frogmouth,Podargus ocellatus,Frogmouths,Podargiformes,Podargidae
+86,White-throated nightjar,Eurostopodus mystacalis,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae
+87,Spotted nightjar,Eurostopodus argus,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae
+88,Large-tailed nightjar,Caprimulgus macrurus,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae
+89,Savanna nightjar,Caprimulgus affinis,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae
+90,Grey nightjar,Caprimulgus jotaka,Nightjars,Caprimulgiformes,Eurostopodidae and Caprimulgidae
+91,Australian owlet-nightjar,Aegotheles cristatus,Owlet-nightjars,Aegotheliformes,Aegothelidae
+92,Glossy swiftlet,Collocalia esculenta,Swifts,Apodiformes,Apodidae
+93,Cave swiftlet,Collocalia linchi,Swifts,Apodiformes,Apodidae
+94,Australian swiftlet,Aerodramus terraereginae,Swifts,Apodiformes,Apodidae
+95,Uniform swiftlet,Aerodramus vanikorensis,Swifts,Apodiformes,Apodidae
+96,White-throated needletail,Hirundapus caudacutus,Swifts,Apodiformes,Apodidae
+97,Papuan spine-tailed swift,Mearnsia novaeguineae,Swifts,Apodiformes,Apodidae
+98,Pacific swift,Apus pacificus,Swifts,Apodiformes,Apodidae
+99,House swift,Apus affinis,Swifts,Apodiformes,Apodidae
+100,Swinhoe's storm petrel,Hydrobates monorhis,Storm petrels,Procellariiformes,Hydrobatidae
+101,Leach's storm petrel,Hydrobates leucorhoa,Storm petrels,Procellariiformes,Hydrobatidae
+102,Tristram's storm petrel,Hydrobates tristrami,Storm petrels,Procellariiformes,Hydrobatidae
+103,Matsudaira's storm petrel,Hydrobates matsudairae,Storm petrels,Procellariiformes,Hydrobatidae
+104,Polynesian storm petrel,Nesofregetta fuliginosa,Storm petrels,Procellariiformes,Hydrobatidae
+105,Wilson's storm petrel,Oceanites oceanicus,Storm petrels,Procellariiformes,Hydrobatidae
+106,Grey-backed storm petrel,Garrodia nereis,Storm petrels,Procellariiformes,Hydrobatidae
+107,White-faced storm petrel,Pelagodroma marina,Storm petrels,Procellariiformes,Hydrobatidae
+108,Black-bellied storm petrel,Fregetta tropica,Storm petrels,Procellariiformes,Hydrobatidae
+109,White-bellied storm petrel,Fregetta grallaria,Storm petrels,Procellariiformes,Hydrobatidae
+110,Wandering albatross,Diomedea exulans,Albatrosses,Procellariiformes,Diomedeidae
+111,Antipodean albatross,Diomedea antipodensis,Albatrosses,Procellariiformes,Diomedeidae
+112,Southern royal albatross,Diomedea epomophora,Albatrosses,Procellariiformes,Diomedeidae
+113,Northern royal albatross,Diomedea sanfordi,Albatrosses,Procellariiformes,Diomedeidae
+114,Laysan albatross,Phoebastria immutabilis,Albatrosses,Procellariiformes,Diomedeidae
+115,Black-browed albatross,Thalassarche melanophris,Albatrosses,Procellariiformes,Diomedeidae
+116,Shy albatross,Thalassarche cauta,Albatrosses,Procellariiformes,Diomedeidae
+117,Salvin's albatross,Thalassarche salvini,Albatrosses,Procellariiformes,Diomedeidae
+118,Chatham albatross,Thalassarche eremita,Albatrosses,Procellariiformes,Diomedeidae
+119,Campbell albatross,Thalassarche impavida,Albatrosses,Procellariiformes,Diomedeidae
+120,Grey-headed albatross,Thalassarche chrysostoma,Albatrosses,Procellariiformes,Diomedeidae
+121,Yellow-nosed albatross,Thalassarche carteri,Albatrosses,Procellariiformes,Diomedeidae
+122,Buller's albatross,Thalassarche bulleri,Albatrosses,Procellariiformes,Diomedeidae
+123,Sooty albatross,Phoebetria fusca,Albatrosses,Procellariiformes,Diomedeidae
+124,Light-mantled sooty albatross,Phoebetria palpebrata,Albatrosses,Procellariiformes,Diomedeidae
+125,Southern giant petrel,Macronectes giganteus,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+126,Northern giant petrel,Macronectes halli,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+127,Southern fulmar,Fulmarus glacialoides,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+128,Antarctic petrel,Thalassoica antarctica,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+129,Cape petrel,Daption capense,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+130,Snow petrel,Pagodroma nivea,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+131,Blue petrel,Halobaena caerulea,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+132,Broad-billed prion,Pachyptila vittata,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+133,Salvin's prion,Pachyptila salvini,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+134,Antarctic prion,Pachyptila desolata,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+135,Slender-billed prion,Pachyptila belcheri,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+136,Fairy prion,Pachyptila turtur,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+137,Fulmar prion,Pachyptila crassirostris,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+138,White-chinned petrel,Procellaria aequinoctialis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+139,Westland petrel,Procellaria westlandica,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+140,Black petrel,Procellaria parkinsoni,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+141,Grey petrel,Procellaria cinerea,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+142,Bulwer's petrel,Bulweria bulwerii,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+143,Jouanin's petrel,Bulweria fallax,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+144,Wedge-tailed shearwater,Ardenna pacifica,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+145,Buller's shearwater,Ardenna bulleri,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+146,Flesh-footed shearwater,Ardenna carneipes,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+147,Pink-footed shearwater,Ardenna creatopus,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+148,Great shearwater,Ardenna gravis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+149,Sooty shearwater,Ardenna grisea,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+150,Short-tailed shearwater,Ardenna tenuirostris,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+151,Streaked shearwater,Calonectris leucomelas,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+152,Manx shearwater,Puffinus puffinus,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+153,Newell's shearwater,Puffinus newelli,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+154,Fluttering shearwater,Puffinus gavia,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+155,Hutton's shearwater,Puffinus huttoni,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+156,Tropical shearwater,Puffinus bailloni,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+157,Persian shearwater,Puffinus persicus,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+158,Heinroth's shearwater,Puffinus heinrothi,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+159,Little shearwater,Puffinus assimilis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+160,Tahiti petrel,Pseudobulweria rostrata,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+161,Kerguelen petrel,Lugensa brevirostris,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+162,Barau's petrel,Pterodroma baraui,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+163,Juan Fernandez petrel,Pterodroma externa,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+164,Kermadec petrel,Pterodroma neglecta,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+165,Herald petrel,Pterodroma heraldica,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+166,Soft-plumaged petrel,Pterodroma mollis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+167,White-headed petrel,Pterodroma lessonii,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+168,Great-winged petrel,Pterodroma macroptera,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+169,Providence petrel,Pterodroma solandri,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+170,Mottled petrel,Pterodroma inexpectata,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+171,Gould's petrel,Pterodroma leucoptera,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+172,Cook's petrel,Pterodroma cookii,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+173,White-necked petrel,Pterodroma cervicalis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+174,Vanuatu petrel,Pterodroma occulta,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+175,Black-winged petrel,Pterodroma nigripennis,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+176,Atlantic petrel,Pterodroma incerta,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+177,Common diving petrel,Pelecanoides urinatrix,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+178,South Georgian diving petrel,Pelecanoides georgicus,"Fulmars, petrels and shearwaters",Procellariiformes,Procellariidae
+179,King penguin,Aptenodytes patagonicus,Penguins,Sphenisciformes,Spheniscidae
+180,Emperor penguin,Aptenodytes forsteri,Penguins,Sphenisciformes,Spheniscidae
+181,Gentoo penguin,Pygoscelis papua,Penguins,Sphenisciformes,Spheniscidae
+182,Adelie penguin,Pygoscelis adeliae,Penguins,Sphenisciformes,Spheniscidae
+183,Chinstrap penguin,Pygoscelis antarcticus,Penguins,Sphenisciformes,Spheniscidae
+184,Southern rockhopper penguin,Eudyptes chrysocome,Penguins,Sphenisciformes,Spheniscidae
+185,Northern rockhopper penguin,Eudyptes moseleyi,Penguins,Sphenisciformes,Spheniscidae
+186,Fiordland penguin,Eudyptes pachyrhynchus,Penguins,Sphenisciformes,Spheniscidae
+187,Erect-crested penguin,Eudyptes sclateri,Penguins,Sphenisciformes,Spheniscidae
+188,Macaroni penguin,Eudyptes chrysolophus,Penguins,Sphenisciformes,Spheniscidae
+189,Royal penguin,Eudyptes schlegeli,Penguins,Sphenisciformes,Spheniscidae
+190,Little penguin,Eudyptula minor,Penguins,Sphenisciformes,Spheniscidae
+191,Magellanic penguin,Spheniscus magellanicus,Penguins,Sphenisciformes,Spheniscidae
+192,Lesser frigatebird,Fregata ariel,Frigatebirds,Suliformes,Fregatidae
+193,Great frigatebird,Fregata minor,Frigatebirds,Suliformes,Fregatidae
+194,Christmas frigatebird,Fregata andrewsi,Frigatebirds,Suliformes,Fregatidae
+195,Abbott's booby,Papasula abbotti,Boobies and gannets,Suliformes,Sulidae
+196,Cape gannet,Morus capensis,Boobies and gannets,Suliformes,Sulidae
+197,Australasian gannet,Morus serrator,Boobies and gannets,Suliformes,Sulidae
+198,Masked booby,Sula dactylatra,Boobies and gannets,Suliformes,Sulidae
+199,Red-footed booby,Sula sula,Boobies and gannets,Suliformes,Sulidae
+200,Brown booby,Sula leucogaster,Boobies and gannets,Suliformes,Sulidae
+201,Australasian darter,Anhinga novaehollandiae,Darters,Suliformes,Anhingidae
+202,Little pied cormorant,Microcarbo melanoleucos,Cormorants,Suliformes,Phalacrocoracidae
+203,Great cormorant,Phalacrocorax carbo,Cormorants,Suliformes,Phalacrocoracidae
+204,Little black cormorant,Phalacrocorax sulcirostris,Cormorants,Suliformes,Phalacrocoracidae
+205,Pied cormorant,Phalacrocorax varius,Cormorants,Suliformes,Phalacrocoracidae
+206,Black-faced cormorant,Phalacrocorax fuscescens,Cormorants,Suliformes,Phalacrocoracidae
+207,Macquarie shag,Phalacrocorax purpurascens,Cormorants,Suliformes,Phalacrocoracidae
+208,Heard Island shag,Phalacrocorax nivalis,Cormorants,Suliformes,Phalacrocoracidae
+209,Kerguelen shag,Phalacrocorax verrucosus,Cormorants,Suliformes,Phalacrocoracidae
+210,Australian pelican,Pelecanus conspicillatus,Pelicans,Pelecaniformes,Pelecanidae
+211,Australasian bittern,Botaurus poiciloptilus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+212,Australian little bittern,Ixobrychus dubius,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+213,Yellow bittern,Ixobrychus sinensis,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+214,Schrenck's bittern,Ixobrychus eurhythmus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+215,Cinnamon bittern,Ixobrychus cinnamomeus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+216,Black bittern,Ixobrychus flavicollis,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+217,Grey heron,Ardea cinerea,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+218,White-necked heron,Ardea pacifica,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+219,Eastern great egret,Ardea modesta,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+220,Intermediate egret,Ardea intermedia,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+221,Great-billed heron,Ardea sumatrana,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+222,Cattle egret,Ardea ibis,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+223,Striated heron,Butorides striatus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+224,Chinese pond heron,Ardeola bacchus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+225,Javan pond heron,Ardeola speciosa,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+226,Pied heron,Egretta picata,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+227,White-faced heron,Egretta novaehollandiae,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+228,Little egret,Egretta garzetta,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+229,Eastern reef egret,Egretta sacra,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+230,Black-crowned night heron,Nycticorax nycticorax,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+231,Nankeen night heron,Nycticorax caledonicus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+232,Malayan night heron,Gorsachius melanolophus,"Bitterns, herons and egrets",Pelecaniformes,Ardeidae
+233,Glossy ibis,Plegadis falcinellus,Ibises and spoonbills,Pelecaniformes,Threskiornithidae
+234,Australian white ibis,Threskiornis moluccus,Ibises and spoonbills,Pelecaniformes,Threskiornithidae
+235,Straw-necked ibis,Threskiornis spinicollis,Ibises and spoonbills,Pelecaniformes,Threskiornithidae
+236,Royal spoonbill,Platalea regia,Ibises and spoonbills,Pelecaniformes,Threskiornithidae
+237,Yellow-billed spoonbill,Platalea flavipes,Ibises and spoonbills,Pelecaniformes,Threskiornithidae
+238,Black-necked stork,Ephippiorhynchus asiaticus,Storks,Ciconiiformes,Ciconiidae
+239,Black-shouldered kite,Elanus axillaris,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+240,Letter-winged kite,Elanus scriptus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+241,Square-tailed kite,Lophoictinia isura,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+242,Black-breasted buzzard,Hamirostra melanosternon,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+243,Crested honey buzzard,Pernis ptilorhynchus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+244,Pacific baza,Aviceda subcristata,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+245,White-bellied sea eagle,Haliaeetus leucogaster,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+246,Whistling kite,Haliastur sphenurus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+247,Brahminy kite,Haliastur indus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+248,Black kite,Milvus migrans,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+249,Brown goshawk,Accipiter fasciatus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+250,Collared sparrowhawk,Accipiter cirrocephalus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+251,Variable goshawk,Accipiter hiogaster,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+252,Grey goshawk,Accipiter novaehollandiae,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+253,Spotted harrier,Circus assimilis,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+254,Swamp harrier,Circus approximans,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+255,Red goshawk,Erythrotriorchis radiatus,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+256,Gurney's eagle,Aquila gurneyi,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+257,Wedge-tailed eagle,Aquila audax,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+258,Little eagle,Hieraaetus morphnoides,"Hawks, kites and eagles",Accipitriformes,Accipitridae
+259,Eastern osprey,Pandion haliaetus / Pandion cristatus,Osprey,Accipitriformes,Pandionidae
+260,Nankeen kestrel,Falco cenchroides,Falcons,Falconiformes,Falconidae
+261,Brown falcon,Falco berigora,Falcons,Falconiformes,Falconidae
+262,Australian hobby,Falco longipennis,Falcons,Falconiformes,Falconidae
+263,Grey falcon,Falco hypoleucos,Falcons,Falconiformes,Falconidae
+264,Black falcon,Falco subniger,Falcons,Falconiformes,Falconidae
+265,Peregrine falcon,Falco peregrinus,Falcons,Falconiformes,Falconidae
+266,Sarus crane,Grus antigone,Cranes,Gruiformes,Gruidae
+267,Brolga,Grus rubicunda,Cranes,Gruiformes,Gruidae
+268,Australasian swamphen,Porphyrio melanotus,"Rails, crakes and coots",Gruiformes,Rallidae
+269,White gallinule,Porphyrio albus,"Rails, crakes and coots",Gruiformes,Rallidae
+270,Chestnut rail,Eulabeornis castaneoventris,"Rails, crakes and coots",Gruiformes,Rallidae
+271,Red-necked crake,Rallina tricolor,"Rails, crakes and coots",Gruiformes,Rallidae
+272,Red-legged crake,Rallina fasciata,"Rails, crakes and coots",Gruiformes,Rallidae
+273,Lewin's rail,Lewinia pectoralis,"Rails, crakes and coots",Gruiformes,Rallidae
+274,Buff-banded rail,Gallirallus philippensis,"Rails, crakes and coots",Gruiformes,Rallidae
+275,Lord Howe woodhen,Gallirallus sylvestris,"Rails, crakes and coots",Gruiformes,Rallidae
+276,Corncrake,Crex crex,"Rails, crakes and coots",Gruiformes,Rallidae
+277,Baillon's crake,Porzana pusilla,"Rails, crakes and coots",Gruiformes,Rallidae
+278,Australian spotted crake,Porzana fluminea,"Rails, crakes and coots",Gruiformes,Rallidae
+279,Ruddy-breasted crake,Porzana fusca,"Rails, crakes and coots",Gruiformes,Rallidae
+280,Spotless crake,Porzana tabuensis,"Rails, crakes and coots",Gruiformes,Rallidae
+281,White-browed crake,Amaurornis cinerea,"Rails, crakes and coots",Gruiformes,Rallidae
+282,Pale-vented bush-hen,Amaurornis moluccana,"Rails, crakes and coots",Gruiformes,Rallidae
+283,White-breasted waterhen,Amaurornis phoenicurus,"Rails, crakes and coots",Gruiformes,Rallidae
+284,Watercock,Gallicrex cinerea,"Rails, crakes and coots",Gruiformes,Rallidae
+285,Black-tailed nativehen,Tribonyx ventralis,"Rails, crakes and coots",Gruiformes,Rallidae
+286,Tasmanian nativehen,Tribonyx mortierii,"Rails, crakes and coots",Gruiformes,Rallidae
+287,Dusky moorhen,Gallinula tenebrosa,"Rails, crakes and coots",Gruiformes,Rallidae
+288,Eurasian coot,Fulica atra,"Rails, crakes and coots",Gruiformes,Rallidae
+289,Australian bustard,Ardeotis australis,Bustards,Otidiformes,Otididae
+290,Black-faced sheathbill,Chionis minor,Sheathbills,Charadriiformes,Chionididae
+291,Bush stone-curlew,Burhinus grallarius,Stone-curlews (thick-knees),Charadriiformes,Burhinidae
+292,Beach stone-curlew,Esacus magnirostris,Stone-curlews (thick-knees),Charadriiformes,Burhinidae
+293,South Island pied oystercatcher,Haematopus finschi,Oystercatchers,Charadriiformes,Haematopodidae
+294,Australian pied oystercatcher,Haematopus longirostris,Oystercatchers,Charadriiformes,Haematopodidae
+295,Sooty oystercatcher,Haematopus fuliginosus,Oystercatchers,Charadriiformes,Haematopodidae
+296,Black-winged stilt,Himantopus himantopus,Avocets and stilts,Charadriiformes,Recurvirostridae
+297,Red-necked avocet,Recurvirostra novaehollandiae,Avocets and stilts,Charadriiformes,Recurvirostridae
+298,Banded stilt,Cladorhynchus leucocephalus,Avocets and stilts,Charadriiformes,Recurvirostridae
+299,Pacific golden plover,Pluvialis fulva,Plovers and lapwings,Charadriiformes,Charadriidae
+300,American golden plover,Pluvialis dominicus,Plovers and lapwings,Charadriiformes,Charadriidae
+301,Grey plover,Pluvialis squatarola,Plovers and lapwings,Charadriiformes,Charadriidae
+302,Ringed plover,Charadrius hiaticula,Plovers and lapwings,Charadriiformes,Charadriidae
+303,Little ringed plover,Charadrius dubius,Plovers and lapwings,Charadriiformes,Charadriidae
+304,Kentish plover,Charadrius alexandrinus,Plovers and lapwings,Charadriiformes,Charadriidae
+305,Red-capped plover,Charadrius ruficapillus,Plovers and lapwings,Charadriiformes,Charadriidae
+306,Double-banded plover,Charadrius bicinctus,Plovers and lapwings,Charadriiformes,Charadriidae
+307,Lesser sand plover,Charadrius mongolus,Plovers and lapwings,Charadriiformes,Charadriidae
+308,Greater sand plover,Charadrius leschenaultii,Plovers and lapwings,Charadriiformes,Charadriidae
+309,Caspian plover,Charadrius asiaticus,Plovers and lapwings,Charadriiformes,Charadriidae
+310,Oriental plover,Charadrius veredus,Plovers and lapwings,Charadriiformes,Charadriidae
+311,Inland dotterel,Charadrius australis,Plovers and lapwings,Charadriiformes,Charadriidae
+312,Black-fronted dotterel,Elseyornis melanops,Plovers and lapwings,Charadriiformes,Charadriidae
+313,Hooded plover,Thinornis cucullatus,Plovers and lapwings,Charadriiformes,Charadriidae
+314,Red-kneed dotterel,Erythrogonys cinctus,Plovers and lapwings,Charadriiformes,Charadriidae
+315,Banded lapwing,Vanellus tricolor,Plovers and lapwings,Charadriiformes,Charadriidae
+316,Masked lapwing,Vanellus miles,Plovers and lapwings,Charadriiformes,Charadriidae
+317,Grey-headed lapwing,Vanellus cinereus,Plovers and lapwings,Charadriiformes,Charadriidae
+318,Plains wanderer,Pedionomus torquatus,Plains wanderer,Charadriiformes,Pedionomidae
+319,Comb-crested jacana,Irediparra gallinacea,Jacanas,Charadriiformes,Jacanidae
+320,Pheasant-tailed jacana,Hydrophasianus chirurgus,Jacanas,Charadriiformes,Jacanidae
+321,Australian painted-snipe,Rostratula australis,Painted-snipe,Charadriiformes,Rostratulidae
+322,Latham's snipe,Gallinago hardwickii,Waders or shorebirds,Charadriiformes,Scolopacidae
+323,Pin-tailed snipe,Gallinago stenura,Waders or shorebirds,Charadriiformes,Scolopacidae
+324,Swinhoe's snipe,Gallinago megala,Waders or shorebirds,Charadriiformes,Scolopacidae
+325,Black-tailed godwit,Limosa limosa,Waders or shorebirds,Charadriiformes,Scolopacidae
+326,Hudsonian godwit,Limosa haemastica,Waders or shorebirds,Charadriiformes,Scolopacidae
+327,Bar-tailed godwit,Limosa lapponica,Waders or shorebirds,Charadriiformes,Scolopacidae
+328,Little curlew,Numenius minutus,Waders or shorebirds,Charadriiformes,Scolopacidae
+329,Whimbrel,Numenius phaeopus,Waders or shorebirds,Charadriiformes,Scolopacidae
+330,Eastern curlew,Numenius madagascariensis,Waders or shorebirds,Charadriiformes,Scolopacidae
+331,Upland sandpiper,Bartramia longicauda,Waders or shorebirds,Charadriiformes,Scolopacidae
+332,Terek sandpiper,Xenus cinereus,Waders or shorebirds,Charadriiformes,Scolopacidae
+333,Common sandpiper,Actitis hypoleucos,Waders or shorebirds,Charadriiformes,Scolopacidae
+334,Green sandpiper,Tringa ochropus,Waders or shorebirds,Charadriiformes,Scolopacidae
+335,Grey-tailed tattler,Tringa brevipes,Waders or shorebirds,Charadriiformes,Scolopacidae
+336,Wandering tattler,Tringa incana,Waders or shorebirds,Charadriiformes,Scolopacidae
+337,Spotted redshank,Tringa erythropus,Waders or shorebirds,Charadriiformes,Scolopacidae
+338,Nordmann's greenshank,Tringa guttifer,Waders or shorebirds,Charadriiformes,Scolopacidae
+339,Common greenshank,Tringa nebularia,Waders or shorebirds,Charadriiformes,Scolopacidae
+340,Lesser yellowlegs,Tringa flavipes,Waders or shorebirds,Charadriiformes,Scolopacidae
+341,Marsh sandpiper,Tringa stagnatilis,Waders or shorebirds,Charadriiformes,Scolopacidae
+342,Common redshank,Tringa totanus,Waders or shorebirds,Charadriiformes,Scolopacidae
+343,Wood sandpiper,Tringa glareola,Waders or shorebirds,Charadriiformes,Scolopacidae
+344,Ruddy turnstone,Arenaria interpres,Waders or shorebirds,Charadriiformes,Scolopacidae
+345,Asian dowitcher,Limnodromus semipalmatus,Waders or shorebirds,Charadriiformes,Scolopacidae
+346,Short-billed dowitcher,Limnodromus griseus,Waders or shorebirds,Charadriiformes,Scolopacidae
+347,Great knot,Calidris tenuirostris,Waders or shorebirds,Charadriiformes,Scolopacidae
+348,Red knot,Calidris canutus,Waders or shorebirds,Charadriiformes,Scolopacidae
+349,Sanderling,Calidris alba,Waders or shorebirds,Charadriiformes,Scolopacidae
+350,Little stint,Calidris minuta,Waders or shorebirds,Charadriiformes,Scolopacidae
+351,Red-necked stint,Calidris ruficollis,Waders or shorebirds,Charadriiformes,Scolopacidae
+352,Long-toed stint,Calidris subminuta,Waders or shorebirds,Charadriiformes,Scolopacidae
+353,White-rumped sandpiper,Calidris fuscicollis,Waders or shorebirds,Charadriiformes,Scolopacidae
+354,Baird's sandpiper,Calidris bairdii,Waders or shorebirds,Charadriiformes,Scolopacidae
+355,Pectoral sandpiper,Calidris melanotos,Waders or shorebirds,Charadriiformes,Scolopacidae
+356,Sharp-tailed sandpiper,Calidris acuminata,Waders or shorebirds,Charadriiformes,Scolopacidae
+357,Dunlin,Calidris alpina,Waders or shorebirds,Charadriiformes,Scolopacidae
+358,Curlew sandpiper,Calidris ferruginea,Waders or shorebirds,Charadriiformes,Scolopacidae
+359,Stilt sandpiper,Calidris himantopus,Waders or shorebirds,Charadriiformes,Scolopacidae
+360,Buff-breasted sandpiper,Tryngites subruficollis,Waders or shorebirds,Charadriiformes,Scolopacidae
+361,Broad-billed sandpiper,Limicola falcinellus,Waders or shorebirds,Charadriiformes,Scolopacidae
+362,Ruff,Philomachus pugnax,Waders or shorebirds,Charadriiformes,Scolopacidae
+363,Wilson's phalarope,Steganopus tricolor,Waders or shorebirds,Charadriiformes,Scolopacidae
+364,Red-necked phalarope,Phalaropus lobatus,Waders or shorebirds,Charadriiformes,Scolopacidae
+365,Grey phalarope,Phalaropus fulicarius,Waders or shorebirds,Charadriiformes,Scolopacidae
+366,Red-backed buttonquail,Turnix maculosus,Buttonquail,Charadriiformes,Turnicidae
+367,Black-breasted buttonquail,Turnix melanogaster,Buttonquail,Charadriiformes,Turnicidae
+368,Chestnut-backed buttonquail,Turnix castanotus,Buttonquail,Charadriiformes,Turnicidae
+369,Buff-breasted buttonquail,Turnix olivii,Buttonquail,Charadriiformes,Turnicidae
+370,Painted buttonquail,Turnix varius,Buttonquail,Charadriiformes,Turnicidae
+371,Red-chested buttonquail,Turnix pyrrhothorax,Buttonquail,Charadriiformes,Turnicidae
+372,Little buttonquail,Turnix velox,Buttonquail,Charadriiformes,Turnicidae
+373,Oriental pratincole,Glareola maldivarum,Pratincoles,Charadriiformes,Glareolidae
+374,Australian pratincole,Stiltia isabella,Pratincoles,Charadriiformes,Glareolidae
+375,South polar skua,Stercorarius maccormicki,Skuas,Charadriiformes,Stercorariidae
+376,Brown skua,Stercorarius antarcticus,Skuas,Charadriiformes,Stercorariidae
+377,Pomarine jaeger,Stercorarius pomarinus,Skuas,Charadriiformes,Stercorariidae
+378,Arctic jaeger,Stercorarius parasiticus,Skuas,Charadriiformes,Stercorariidae
+379,Long-tailed jaeger,Stercorarius longicauda,Skuas,Charadriiformes,Stercorariidae
+380,Common noddy,Anous stolidus,Gulls and terns,Charadriiformes,Laridae
+381,Black noddy,Anous minutus,Gulls and terns,Charadriiformes,Laridae
+382,Lesser noddy,Anous tenuirostris,Gulls and terns,Charadriiformes,Laridae
+383,White tern,Gygis alba,Gulls and terns,Charadriiformes,Laridae
+384,Grey ternlet,Procelsterna cerulea,Gulls and terns,Charadriiformes,Laridae
+385,Bridled tern,Onychoprion anaethetus,Gulls and terns,Charadriiformes,Laridae
+386,Sooty tern,Onychoprion fuscata,Gulls and terns,Charadriiformes,Laridae
+387,Little tern,Sternula albifrons,Gulls and terns,Charadriiformes,Laridae
+388,Fairy tern,Sternula nereis,Gulls and terns,Charadriiformes,Laridae
+389,Gull-billed tern,Gelochelidon nilotica,Gulls and terns,Charadriiformes,Laridae
+390,Caspian tern,Hydroprogne caspia,Gulls and terns,Charadriiformes,Laridae
+391,Whiskered tern,Chlidonias hybrida,Gulls and terns,Charadriiformes,Laridae
+392,White-winged black tern,Chlidonias leucopterus,Gulls and terns,Charadriiformes,Laridae
+393,Black tern,Chlidonias niger,Gulls and terns,Charadriiformes,Laridae
+394,Roseate tern,Sterna dougallii,Gulls and terns,Charadriiformes,Laridae
+395,White-fronted tern,Sterna striata,Gulls and terns,Charadriiformes,Laridae
+396,Black-naped tern,Sterna sumatrana,Gulls and terns,Charadriiformes,Laridae
+397,Common tern,Sterna hirundo,Gulls and terns,Charadriiformes,Laridae
+398,Arctic tern,Sterna paradisaea,Gulls and terns,Charadriiformes,Laridae
+399,Antarctic tern,Sterna vittata,Gulls and terns,Charadriiformes,Laridae
+400,Lesser crested tern,Thalasseus bengalensis,Gulls and terns,Charadriiformes,Laridae
+401,Crested tern,Thalasseus bergii,Gulls and terns,Charadriiformes,Laridae
+402,Pacific gull,Larus pacificus,Gulls and terns,Charadriiformes,Laridae
+403,Lesser black-backed gull,Larus fuscus,Gulls and terns,Charadriiformes,Laridae
+404,Kelp gull,Larus dominicanus,Gulls and terns,Charadriiformes,Laridae
+405,Mew gull,Larus canus,Gulls and terns,Charadriiformes,Laridae
+406,Black-tailed gull,Larus crassirostris,Gulls and terns,Charadriiformes,Laridae
+407,Laughing gull,Leucophaeus atricilla,Gulls and terns,Charadriiformes,Laridae
+408,Franklin's gull,Leucophaeus pipixcan,Gulls and terns,Charadriiformes,Laridae
+409,Silver gull,Chroicocephalus novaehollandiae,Gulls and terns,Charadriiformes,Laridae
+410,Black-headed gull,Chroicocephalus ridibundus,Gulls and terns,Charadriiformes,Laridae
+411,Sabine's gull,Xema sabini,Gulls and terns,Charadriiformes,Laridae
+412,Norfolk kaka,Nestor productus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+413,Palm cockatoo,Probosciger aterrimus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+414,Red-tailed black cockatoo,Calyptorhynchus banksii,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+415,Glossy black cockatoo,Calyptorhynchus lathami,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+416,Yellow-tailed black cockatoo,Calyptorhynchus funereus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+417,Carnaby's black cockatoo,Calyptorhynchus latirostris,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+418,Baudin's black cockatoo,Calyptorhynchus baudinii,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+419,Gang-gang cockatoo,Callocephalon fimbriatum,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+420,Major Mitchell's cockatoo,Lophochroa leadbeateri,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+421,Galah,Eolophus roseicapilla,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+422,Long-billed corella,Cacatua tenuirostris,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+423,Western corella,Cacatua pastinator,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+424,Little corella,Cacatua sanguinea,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+425,Sulphur-crested cockatoo,Cacatua galerita,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+426,Cockatiel,Nymphicus hollandicus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+427,Rainbow lorikeet,Trichoglossus moluccanus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+428,Red-collared lorikeet,Trichoglossus rubritorquis,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+429,Coconut lorikeet,Trichoglossus haematodus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+430,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+431,Varied lorikeet,Psitteuteles versicolor,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+432,Musk lorikeet,Glossopsitta concinna,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+433,Little lorikeet,Glossopsitta pusilla,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+434,Purple-crowned lorikeet,Glossopsitta porphyrocephala,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+435,Double-eyed fig parrot,Cyclopsitta diophthalma,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+436,Eclectus parrot,Eclectus roratus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+437,Red-cheeked parrot,Geoffroyus geoffroyi,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+438,Australian king parrot,Alisterus scapularis,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+439,Red-winged parrot,Aprosmictus erythropterus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+440,Superb parrot,Polytelis swainsonii,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+441,Regent parrot,Polytelis anthopeplus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+442,Princess parrot,Polytelis alexandrae,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+443,Green rosella,Platycercus caledonicus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+444,Crimson rosella,Platycercus elegans,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+445,Eastern rosella,Platycercus eximius,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+446,Pale-headed rosella,Platycercus adscitus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+447,Northern rosella,Platycercus venustus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+448,Western rosella,Platycercus icterotis,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+449,Australian ringneck,Barnardius zonarius,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+450,Red-capped parrot,Purpureicephalus spurius,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+451,Bluebonnet,Northiella haematogaster,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+452,Swift parrot,Lathamus discolor,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+453,Red-rumped parrot,Psephotus haematonotus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+454,Mulga parrot,Psephotus varius,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+455,Golden-shouldered parrot,Psephotus chrysopterygius,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+456,Hooded parrot,Psephotus dissimilis,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+457,Paradise parrot,Psephotus pulcherrimus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+458,Tasman parakeet,Cyanoramphus cookii,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+459,Norfolk Island green parrot,Norfolk Island,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+460,Lord Howe red-crowned parakeet,Lord Howe Island,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+461,Red-fronted parakeet,Cyanoramphus novaezelandiae,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+462,Budgerigar,Melopsittacus undulatus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+463,Bourke's parrot,Neopsephotus bourkii,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+464,Blue-winged parrot,Neophema chrysostoma,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+465,Elegant parrot,Neophema elegans,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+466,Rock parrot,Neophema petrophila,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+467,Orange-bellied parrot,Neophema chrysogaster,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+468,Turquoise parrot,Neophema pulchella,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+469,Scarlet-chested parrot,Neophema splendida,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+470,Eastern ground parrot,Pezoporus wallicus,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+471,Western ground parrot,Pezoporus flaviventris,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+472,Night parrot,Pezoporus occidentalis,Parrots and allies,Psittaciformes,"Strigopidae, Cacatuidae and Psittaculidae"
+473,Lesser coucal,Centropus bengalensis,Cuckoos,Cuculiformes,Cuculidae
+474,Pheasant coucal,Centropus phasianinus,Cuckoos,Cuculiformes,Cuculidae
+475,Asian koel,Eudynamys scolopaceus,Cuckoos,Cuculiformes,Cuculidae
+476,Eastern koel,Eudynamys orientalis,Cuckoos,Cuculiformes,Cuculidae
+477,Long-tailed cuckoo,Eudynamys taitensis,Cuckoos,Cuculiformes,Cuculidae
+478,Channel-billed cuckoo,Scythrops novaehollandiae,Cuckoos,Cuculiformes,Cuculidae
+479,Horsfield's bronze cuckoo,Chalcites basalis,Cuckoos,Cuculiformes,Cuculidae
+480,Black-eared cuckoo,Chalcites osculans,Cuckoos,Cuculiformes,Cuculidae
+481,Shining bronze cuckoo,Chalcites lucidus,Cuckoos,Cuculiformes,Cuculidae
+482,Little bronze cuckoo,Chalcites minutillus,Cuckoos,Cuculiformes,Cuculidae
+483,Pallid cuckoo,Cacomantis pallidus,Cuckoos,Cuculiformes,Cuculidae
+484,Chestnut-breasted cuckoo,Cacomantis castaneiventris,Cuckoos,Cuculiformes,Cuculidae
+485,Fan-tailed cuckoo,Cacomantis flabelliformis,Cuckoos,Cuculiformes,Cuculidae
+486,Brush cuckoo,Cacomantis variolosus,Cuckoos,Cuculiformes,Cuculidae
+487,Oriental cuckoo,Cuculus optatus,Cuckoos,Cuculiformes,Cuculidae
+488,Large hawk-cuckoo,Hierococcyx sparverioides,Cuckoos,Cuculiformes,Cuculidae
+489,Powerful owl,Ninox strenua,True owls,Strigiformes,Strigidae
+490,Rufous owl,Ninox rufa,True owls,Strigiformes,Strigidae
+491,Barking owl,Ninox connivens,True owls,Strigiformes,Strigidae
+492,Southern boobook,Ninox boobook,True owls,Strigiformes,Strigidae
+493,Brown hawk-owl,Ninox scutulata,True owls,Strigiformes,Strigidae
+494,Christmas Island hawk-owl,Ninox natalis,True owls,Strigiformes,Strigidae
+495,Buffy fish owl,Bubo ketupu,True owls,Strigiformes,Strigidae
+496,Greater sooty owl,Tyto tenebricosa,Barn owls,Strigiformes,Tytonidae
+497,Lesser sooty owl,Tyto multipunctata,Barn owls,Strigiformes,Tytonidae
+498,Masked owl,Tyto novaehollandiae,Barn owls,Strigiformes,Tytonidae
+499,Eastern barn owl,Tyto delicatula,Barn owls,Strigiformes,Tytonidae
+500,Eastern grass owl,Tyto longimembris,Barn owls,Strigiformes,Tytonidae
+501,Common kingfisher,Alcedo atthis,Kingfishers,Coraciiformes,Alcedinidae
+502,Azure kingfisher,Ceyx azureus,Kingfishers,Coraciiformes,Alcedinidae
+503,Little kingfisher,Ceyx pusillus,Kingfishers,Coraciiformes,Alcedinidae
+504,Buff-breasted paradise kingfisher,Tanysiptera sylvia,Kingfishers,Coraciiformes,Alcedinidae
+505,Little paradise kingfisher,Tanysiptera hydrocharis,Kingfishers,Coraciiformes,Alcedinidae
+506,Common paradise kingfisher,Tanysiptera galatea,Kingfishers,Coraciiformes,Alcedinidae
+507,Laughing kookaburra,Dacelo novaeguineae,Kingfishers,Coraciiformes,Alcedinidae
+508,Blue-winged kookaburra,Dacelo leachii,Kingfishers,Coraciiformes,Alcedinidae
+509,Yellow-billed kingfisher,Syma torotoro,Kingfishers,Coraciiformes,Alcedinidae
+510,Forest kingfisher,Todiramphus macleayii,Kingfishers,Coraciiformes,Alcedinidae
+511,Red-backed kingfisher,Todiramphus pyrrhopygia,Kingfishers,Coraciiformes,Alcedinidae
+512,Sacred kingfisher,Todiramphus sanctus,Kingfishers,Coraciiformes,Alcedinidae
+513,Torresian kingfisher,Todiramphus sordidus,Kingfishers,Coraciiformes,Alcedinidae
+514,Black-capped kingfisher,Halcyon pileata,Kingfishers,Coraciiformes,Alcedinidae
+515,Rainbow bee-eater,Merops ornatus,Bee-eaters,Coraciiformes,Meropidae
+516,Dollarbird,Eurystomus orientalis,Rollers,Coraciiformes,Coraciidae
+517,Papuan pitta,Erythropitta macklotii,Pittas,Passeriformes,Pittidae
+518,Blue-winged pitta,Pitta moluccensis,Pittas,Passeriformes,Pittidae
+519,Noisy pitta,Pitta versicolor,Pittas,Passeriformes,Pittidae
+520,Rainbow pitta,Pitta iris,Pittas,Passeriformes,Pittidae
+521,Fairy pitta,Pitta nympha,Pittas,Passeriformes,Pittidae
+522,Albert's lyrebird,Menura alberti,Lyrebirds,Passeriformes,Menuridae
+523,Superb lyrebird,Menura novaehollandiae,Lyrebirds,Passeriformes,Menuridae
+524,Rufous scrubbird,Atrichornis rufescens,Scrubbirds,Passeriformes,Atrichornithidae
+525,Noisy scrubbird,Atrichornis clamosus,Scrubbirds,Passeriformes,Atrichornithidae
+526,White-throated treecreeper,Cormobates leucophaea,Australasian treecreepers,Passeriformes,Climacteridae
+527,White-browed treecreeper,Climacteris affinis,Australasian treecreepers,Passeriformes,Climacteridae
+528,Red-browed treecreeper,Climacteris erythrops,Australasian treecreepers,Passeriformes,Climacteridae
+529,Brown treecreeper,Climacteris picumnus,Australasian treecreepers,Passeriformes,Climacteridae
+530,Black-tailed treecreeper,Climacteris melanura,Australasian treecreepers,Passeriformes,Climacteridae
+531,Rufous treecreeper,Climacteris rufa,Australasian treecreepers,Passeriformes,Climacteridae
+532,Spotted catbird,Ailuroedus maculosus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+533,Green catbird,Ailuroedus crassirostris,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+534,Black-eared catbird,Ailuroedus melanotis,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+535,Tooth-billed bowerbird,Scenopoeetes dentirostris,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+536,Golden bowerbird,Amblyornis newtonianus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+537,Regent bowerbird,Sericulus chrysocephalus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+538,Satin bowerbird,Ptilonorhynchus violaceus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+539,Spotted bowerbird,Ptilonorhynchus maculatus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+540,Western bowerbird,Ptilonorhynchus guttatus,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+541,Great bowerbird,Ptilonorhynchus nuchalis,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+542,Fawn-breasted bowerbird,Ptilonorhynchus cerviniventris,Bowerbirds and catbirds,Passeriformes,Ptilonorhynchidae
+543,Superb fairywren,Malurus cyaneus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+544,Splendid fairywren,Malurus splendens,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+545,Purple-crowned fairywren,Malurus coronatus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+546,Red-backed fairywren,Malurus melanocephalus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+547,White-winged fairywren,Malurus leucopterus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+548,Variegated fairywren,Malurus lamberti,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+549,Lovely fairywren,Malurus amabilis,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+550,Blue-breasted fairywren,Malurus pulcherrimus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+551,Red-winged fairywren,Malurus elegans,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+552,Southern emu-wren,Stipiturus malachurus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+553,Mallee emu-wren,Stipiturus mallee,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+554,Rufous-crowned emu-wren,Stipiturus ruficeps,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+555,Grey grasswren,Amytornis barbatus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+556,Striated grasswren,Amytornis striatus,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+557,Short-tailed grasswren,Amytornis merrotsyi,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+558,White-throated grasswren,Amytornis woodwardi,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+559,Carpentarian grasswren,Amytornis dorotheae,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+560,Thick-billed grasswren,Amytornis textilis,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+561,Dusky grasswren,Amytornis purnelli,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+562,Kalkadoon grasswren,Amytornis ballarae,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+563,Eyrean grasswren,Amytornis goyderi,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+564,Black grasswren,Amytornis housei,"Fairywrens, emu-wrens and grasswrens",Passeriformes,Maluridae
+565,Eastern bristlebird,Dasyornis brachypterus,Bristlebirds,Passeriformes,Dasyornithidae
+566,Western bristlebird,Dasyornis longirostris,Bristlebirds,Passeriformes,Dasyornithidae
+567,Rufous bristlebird,Dasyornis broadbenti,Bristlebirds,Passeriformes,Dasyornithidae
+568,Pilotbird,Pycnoptilus floccosus,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+569,Rockwarbler,Origma solitaria,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+570,Fernwren,Oreoscopus gutturalis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+571,Yellow-throated scrubwren,Sericornis citreogularis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+572,White-browed scrubwren,Sericornis frontalis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+573,Tasmanian scrubwren,Sericornis humilis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+574,Atherton scrubwren,Sericornis keri,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+575,Large-billed scrubwren,Sericornis magnirostra,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+576,Tropical scrubwren,Sericornis beccarii,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+577,Scrubtit,Acanthornis magna,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+578,Chestnut-rumped heathwren,Hylacola pyrrhopygia,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+579,Shy heathwren,Hylacola cauta,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+580,Striated fieldwren,Calamanthus fuliginosus,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+581,Rufous fieldwren,Calamanthus campestris,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+582,Redthroat,Pyrrholaemus brunneus,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+583,Speckled warbler,Chthonicola sagittatus,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+584,Weebill,Smicrornis brevirostris,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+585,Brown gerygone,Gerygone mouki,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+586,Norfolk Island gerygone,Gerygone modesta,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+587,Lord Howe gerygone,Gerygone insularis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+588,Mangrove gerygone,Gerygone levigaster,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+589,Western gerygone,Gerygone fusca,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+590,Dusky gerygone,Gerygone tenebrosa,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+591,Large-billed gerygone,Gerygone magnirostris,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+592,Green-backed gerygone,Gerygone chloronota,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+593,Fairy gerygone,Gerygone palpebrosa,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+594,White-throated gerygone,Gerygone albogularis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+595,Slaty-backed thornbill,Acanthiza robustirostris,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+596,Striated thornbill,Acanthiza lineata,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+597,Yellow thornbill,Acanthiza nana,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+598,Yellow-rumped thornbill,Acanthiza chrysorrhoa,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+599,Chestnut-rumped thornbill,Acanthiza uropygialis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+600,Buff-rumped thornbill,Acanthiza reguloides,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+601,Western thornbill,Acanthiza inornata,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+602,Slender-billed thornbill,Acanthiza iredalei,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+603,Tasmanian thornbill,Acanthiza ewingii,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+604,Inland thornbill,Acanthiza apicalis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+605,Brown thornbill,Acanthiza pusilla,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+606,Mountain thornbill,Acanthiza katherina,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+607,Southern whiteface,Aphelocephala leucopsis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+608,Chestnut-breasted whiteface,Aphelocephala pectoralis,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+609,Banded whiteface,Aphelocephala nigricincta,"Scrubwrens, thornbills and allies",Passeriformes,Acanthizidae
+610,Spotted pardalote,Pardalotus punctatus,Pardalotes,Passeriformes,Pardalotidae
+611,Forty-spotted pardalote,Pardalotus quadragintus,Pardalotes,Passeriformes,Pardalotidae
+612,Red-browed pardalote,Pardalotus rubricatus,Pardalotes,Passeriformes,Pardalotidae
+613,Striated pardalote,Pardalotus striatus,Pardalotes,Passeriformes,Pardalotidae
+614,Eastern spinebill,Acanthorhynchus tenuirostris,Honeyeaters,Passeriformes,Meliphagidae
+615,Western spinebill,Acanthorhynchus superciliosus,Honeyeaters,Passeriformes,Meliphagidae
+616,Pied honeyeater,Certhionyx variegatus,Honeyeaters,Passeriformes,Meliphagidae
+617,Lewin's honeyeater,Meliphaga lewinii,Honeyeaters,Passeriformes,Meliphagidae
+618,Yellow-spotted honeyeater,Meliphaga notata,Honeyeaters,Passeriformes,Meliphagidae
+619,Graceful honeyeater,Meliphaga gracilis,Honeyeaters,Passeriformes,Meliphagidae
+620,White-lined honeyeater,Meliphaga albilineata,Honeyeaters,Passeriformes,Meliphagidae
+621,Kimberley honeyeater,Meliphaga fordiana,Honeyeaters,Passeriformes,Meliphagidae
+622,Bridled honeyeater,Bolemoreus frenatus,Honeyeaters,Passeriformes,Meliphagidae
+623,Eungella honeyeater,Bolemoreus hindwoodi,Honeyeaters,Passeriformes,Meliphagidae
+624,Yellow-faced honeyeater,Caligavis chrysops,Honeyeaters,Passeriformes,Meliphagidae
+625,Singing honeyeater,Gavicalis virescens,Honeyeaters,Passeriformes,Meliphagidae
+626,Varied honeyeater,Gavicalis versicolor,Honeyeaters,Passeriformes,Meliphagidae
+627,Mangrove honeyeater,Gavicalis fasciogularis,Honeyeaters,Passeriformes,Meliphagidae
+628,White-gaped honeyeater,Stomiopera unicolor,Honeyeaters,Passeriformes,Meliphagidae
+629,Yellow honeyeater,Stomiopera flava,Honeyeaters,Passeriformes,Meliphagidae
+630,White-eared honeyeater,Nesoptilotis leucotis,Honeyeaters,Passeriformes,Meliphagidae
+631,Yellow-throated honeyeater,Nesoptilotis flavicollis,Honeyeaters,Passeriformes,Meliphagidae
+632,Yellow-tufted honeyeater,Lichenostomus melanops,Honeyeaters,Passeriformes,Meliphagidae
+633,Purple-gaped honeyeater,Lichenostomus cratitius,Honeyeaters,Passeriformes,Meliphagidae
+634,Grey-headed honeyeater,Ptilotula keartlandi,Honeyeaters,Passeriformes,Meliphagidae
+635,Yellow-plumed honeyeater,Ptilotula ornata,Honeyeaters,Passeriformes,Meliphagidae
+636,Grey-fronted honeyeater,Ptilotula plumula,Honeyeaters,Passeriformes,Meliphagidae
+637,Fuscous honeyeater,Ptilotula fusca,Honeyeaters,Passeriformes,Meliphagidae
+638,Yellow-tinted honeyeater,Ptilotula flavescens,Honeyeaters,Passeriformes,Meliphagidae
+639,White-plumed honeyeater,Ptilotula penicillata,Honeyeaters,Passeriformes,Meliphagidae
+640,White-fronted honeyeater,Purnella albifrons,Honeyeaters,Passeriformes,Meliphagidae
+641,Bell miner,Manorina melanophrys,Honeyeaters,Passeriformes,Meliphagidae
+642,Noisy miner,Manorina melanocephala,Honeyeaters,Passeriformes,Meliphagidae
+643,Black-eared miner,Manorina melanotis,Honeyeaters,Passeriformes,Meliphagidae
+644,Yellow-throated miner,Manorina flavigula,Honeyeaters,Passeriformes,Meliphagidae
+645,Spiny-cheeked honeyeater,Acanthagenys rufogularis,Honeyeaters,Passeriformes,Meliphagidae
+646,Western wattlebird,Anthochaera lunulata,Honeyeaters,Passeriformes,Meliphagidae
+647,Little wattlebird,Anthochaera chrysoptera,Honeyeaters,Passeriformes,Meliphagidae
+648,Regent honeyeater,Anthochaera phrygia,Honeyeaters,Passeriformes,Meliphagidae
+649,Red wattlebird,Anthochaera carunculata,Honeyeaters,Passeriformes,Meliphagidae
+650,Yellow wattlebird,Anthochaera paradoxa,Honeyeaters,Passeriformes,Meliphagidae
+651,Brown-backed honeyeater,Ramsayornis modestus,Honeyeaters,Passeriformes,Meliphagidae
+652,Bar-breasted honeyeater,Ramsayornis fasciatus,Honeyeaters,Passeriformes,Meliphagidae
+653,Rufous-banded honeyeater,Conopophila albogularis,Honeyeaters,Passeriformes,Meliphagidae
+654,Rufous-throated honeyeater,Conopophila rufogularis,Honeyeaters,Passeriformes,Meliphagidae
+655,Grey honeyeater,Conopophila whitei,Honeyeaters,Passeriformes,Meliphagidae
+656,Black honeyeater,Sugomel niger,Honeyeaters,Passeriformes,Meliphagidae
+657,Dusky honeyeater,Myzomela obscura,Honeyeaters,Passeriformes,Meliphagidae
+658,Red-headed honeyeater,Myzomela erythrocephala,Honeyeaters,Passeriformes,Meliphagidae
+659,Scarlet honeyeater,Myzomela sanguinolenta,Honeyeaters,Passeriformes,Meliphagidae
+660,Green-backed honeyeater,Glycichaera fallax,Honeyeaters,Passeriformes,Meliphagidae
+661,Tawny-crowned honeyeater,Gliciphila melanops,Honeyeaters,Passeriformes,Meliphagidae
+662,Banded honeyeater,Cissomela pectoralis,Honeyeaters,Passeriformes,Meliphagidae
+663,Brown honeyeater,Lichmera indistincta,Honeyeaters,Passeriformes,Meliphagidae
+664,Crescent honeyeater,Phylidonyris pyrrhoptera,Honeyeaters,Passeriformes,Meliphagidae
+665,New Holland honeyeater,Phylidonyris novaehollandiae,Honeyeaters,Passeriformes,Meliphagidae
+666,White-cheeked honeyeater,Phylidonyris nigra,Honeyeaters,Passeriformes,Meliphagidae
+667,White-streaked honeyeater,Trichodere cockerelli,Honeyeaters,Passeriformes,Meliphagidae
+668,Black-chinned honeyeater,Melithreptus gularis,Honeyeaters,Passeriformes,Meliphagidae
+669,Strong-billed honeyeater,Melithreptus validirostris,Honeyeaters,Passeriformes,Meliphagidae
+670,Brown-headed honeyeater,Melithreptus brevirostris,Honeyeaters,Passeriformes,Meliphagidae
+671,White-throated honeyeater,Melithreptus albogularis,Honeyeaters,Passeriformes,Meliphagidae
+672,White-naped honeyeater,Melithreptus lunatus,Honeyeaters,Passeriformes,Meliphagidae
+673,Gilbert's honeyeater,Melithreptus chloropsis,Honeyeaters,Passeriformes,Meliphagidae
+674,Black-headed honeyeater,Melithreptus affinis,Honeyeaters,Passeriformes,Meliphagidae
+675,Blue-faced honeyeater,Entomyzon cyanotis,Honeyeaters,Passeriformes,Meliphagidae
+676,Helmeted friarbird,Philemon buceroides,Honeyeaters,Passeriformes,Meliphagidae
+677,Silver-crowned friarbird,Philemon argenticeps,Honeyeaters,Passeriformes,Meliphagidae
+678,Noisy friarbird,Philemon corniculatus,Honeyeaters,Passeriformes,Meliphagidae
+679,Little friarbird,Philemon citreogularis,Honeyeaters,Passeriformes,Meliphagidae
+680,Macleay's honeyeater,Xanthotis macleayana,Honeyeaters,Passeriformes,Meliphagidae
+681,Tawny-breasted honeyeater,Xanthotis flaviventer,Honeyeaters,Passeriformes,Meliphagidae
+682,Striped honeyeater,Plectorhyncha lanceolata,Honeyeaters,Passeriformes,Meliphagidae
+683,Painted honeyeater,Grantiella picta,Honeyeaters,Passeriformes,Meliphagidae
+684,Crimson chat,Epthianura tricolor,Honeyeaters,Passeriformes,Meliphagidae
+685,Orange chat,Epthianura aurifrons,Honeyeaters,Passeriformes,Meliphagidae
+686,Yellow chat,Epthianura crocea,Honeyeaters,Passeriformes,Meliphagidae
+687,White-fronted chat,Epthianura albifrons,Honeyeaters,Passeriformes,Meliphagidae
+688,Gibberbird,Ashbyia lovensis,Honeyeaters,Passeriformes,Meliphagidae
+689,Grey-crowned babbler,Pomatostomus temporalis,Babblers,Passeriformes,Pomatostomidae
+690,Hall's babbler,Pomatostomus halli,Babblers,Passeriformes,Pomatostomidae
+691,White-browed babbler,Pomatostomus superciliosus,Babblers,Passeriformes,Pomatostomidae
+692,Chestnut-crowned babbler,Pomatostomus ruficeps,Babblers,Passeriformes,Pomatostomidae
+693,Australian logrunner,Orthonyx temminckii,Logrunner and chowchilla,Passeriformes,Orthonychidae
+694,Chowchilla,Orthonyx spaldingii,Logrunner and chowchilla,Passeriformes,Orthonychidae
+695,Spotted quail-thrush,Cinclosoma punctatum,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+696,Chestnut quail-thrush,Cinclosoma castanotum,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+697,Cinnamon quail-thrush,Cinclosoma cinnamomeum,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+698,Copperback quail-thrush,Cinclosoma clarum,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+699,Nullarbor quail-thrush,Cinclosoma alisteri,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+700,Chestnut-breasted quail-thrush,Cinclosoma castaneothorax,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+701,Western quail-thrush,Cinclosoma marginatum,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+702,Eastern whipbird,Psophodes olivaceus,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+703,Western whipbird,Psophodes nigrogularis,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+704,Chirruping wedgebill,Psophodes cristatus,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+705,Chiming wedgebill,Psophodes occidentalis,"Quail-thrush, whipbirds and wedgebills",Passeriformes,Psophodidae
+706,Varied sittella,Daphoenositta chrysoptera,Sittella,Passeriformes,Neosittidae
+707,Ground cuckooshrike,Coracina maxima,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+708,Black-faced cuckooshrike,Coracina novaehollandiae,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+709,White-bellied cuckooshrike,Coracina papuensis,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+710,Barred cuckooshrike,Coracina lineata,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+711,Cicadabird,Coracina tenuirostris,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+712,White-winged triller,Lalage sueurii,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+713,Varied triller,Lalage leucomela,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+714,Long-tailed triller,Lalage leucopyga,Cuckooshrikes and trillers,Passeriformes,Campephagidae
+715,Crested shriketit,Falcunculus frontatus,Whistlers and allies,Passeriformes,Pachycephalidae
+716,Olive whistler,Pachycephala olivacea,Whistlers and allies,Passeriformes,Pachycephalidae
+717,Red-lored whistler,Pachycephala rufogularis,Whistlers and allies,Passeriformes,Pachycephalidae
+718,Gilbert's whistler,Pachycephala inornata,Whistlers and allies,Passeriformes,Pachycephalidae
+719,Australian golden whistler,Pachycephala pectoralis,Whistlers and allies,Passeriformes,Pachycephalidae
+720,Mangrove golden whistler,Pachycephala melanura,Whistlers and allies,Passeriformes,Pachycephalidae
+721,Western whistler,Pachycephala occidentalis,Whistlers and allies,Passeriformes,Pachycephalidae
+722,Grey whistler,Pachycephala simplex,Whistlers and allies,Passeriformes,Pachycephalidae
+723,Rufous whistler,Pachycephala rufiventris,Whistlers and allies,Passeriformes,Pachycephalidae
+724,White-breasted whistler,Pachycephala lanioides,Whistlers and allies,Passeriformes,Pachycephalidae
+725,Little shrikethrush,Colluricincla megarhyncha,Whistlers and allies,Passeriformes,Pachycephalidae
+726,Bower's shrikethrush,Colluricincla boweri,Whistlers and allies,Passeriformes,Pachycephalidae
+727,Sandstone shrikethrush,Colluricincla woodwardi,Whistlers and allies,Passeriformes,Pachycephalidae
+728,Grey shrikethrush,Colluricincla harmonica,Whistlers and allies,Passeriformes,Pachycephalidae
+729,Crested bellbird,Oreoica gutturalis,Oreoicids,Passeriformes,Oreoicidae
+730,Australasian figbird,Sphecotheres vieilloti,Figbird and orioles,Passeriformes,Oriolidae
+731,Yellow oriole,Oriolus flavocinctus,Figbird and orioles,Passeriformes,Oriolidae
+732,Olive-backed oriole,Oriolus sagittatus,Figbird and orioles,Passeriformes,Oriolidae
+733,White-breasted woodswallow,Artamus leucorynchus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+734,Masked woodswallow,Artamus personatus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+735,White-browed woodswallow,Artamus superciliosus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+736,Black-faced woodswallow,Artamus cinereus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+737,Dusky woodswallow,Artamus cyanopterus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+738,Little woodswallow,Artamus minor,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+739,Black butcherbird,Melloria quoyi,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+740,Grey butcherbird,Cracticus torquatus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+741,Silver-backed butcherbird,Cracticus argenteus,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+742,Black-backed butcherbird,Cracticus mentalis,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+743,Pied butcherbird,Cracticus nigrogularis,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+744,Australian magpie,Cracticus tibicen,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+745,Pied currawong,Strepera graculina,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+746,Black currawong,Strepera fuliginosa,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+747,Grey currawong,Strepera versicolor,"Currawongs, woodswallows, butcherbirds and allies",Passeriformes,Artamidae
+748,Spangled drongo,Dicrurus bracteatus,Drongo,Passeriformes,Dicruridae
+749,Rufous fantail,Rhipidura rufifrons,Fantails,Passeriformes,Rhipiduridae
+750,Arafura fantail,Rhipidura dryas,Fantails,Passeriformes,Rhipiduridae
+751,New Zealand fantail,Rhipidura fuliginosa,Fantails,Passeriformes,Rhipiduridae
+752,Grey fantail,Rhipidura albiscapa,Fantails,Passeriformes,Rhipiduridae
+753,Mangrove grey fantail,Rhipidura phasiana,Fantails,Passeriformes,Rhipiduridae
+754,Northern fantail,Rhipidura rufiventris,Fantails,Passeriformes,Rhipiduridae
+755,Willie wagtail,Rhipidura leucophrys,Fantails,Passeriformes,Rhipiduridae
+756,Brown shrike,Lanius cristatus,Shrikes,Passeriformes,Laniidae
+757,Tiger shrike,Lanius tigrinus,Shrikes,Passeriformes,Laniidae
+758,Australian raven,Corvus coronoides,"Magpie, crows and ravens",Passeriformes,Corvidae
+759,Forest raven,Corvus tasmanicus,"Magpie, crows and ravens",Passeriformes,Corvidae
+760,Little raven,Corvus mellori,"Magpie, crows and ravens",Passeriformes,Corvidae
+761,Little crow,Corvus bennetti,"Magpie, crows and ravens",Passeriformes,Corvidae
+762,Torresian crow,Corvus orru,"Magpie, crows and ravens",Passeriformes,Corvidae
+763,House crow,Corvus splendens,"Magpie, crows and ravens",Passeriformes,Corvidae
+764,Broad-billed flycatcher,Myiagra ruficollis,Monarch flycatchers,Passeriformes,Monarchidae
+765,Leaden flycatcher,Myiagra rubecula,Monarch flycatchers,Passeriformes,Monarchidae
+766,Satin flycatcher,Myiagra cyanoleuca,Monarch flycatchers,Passeriformes,Monarchidae
+767,Shining flycatcher,Myiagra alecto,Monarch flycatchers,Passeriformes,Monarchidae
+768,Restless flycatcher,Myiagra inquieta,Monarch flycatchers,Passeriformes,Monarchidae
+769,White-eared monarch,Carterornis leucotis,Monarch flycatchers,Passeriformes,Monarchidae
+770,Black-faced monarch,Monarcha melanopsis,Monarch flycatchers,Passeriformes,Monarchidae
+771,Black-winged monarch,Monarcha frater,Monarch flycatchers,Passeriformes,Monarchidae
+772,Island monarch,Monarcha cinerascens,Monarch flycatchers,Passeriformes,Monarchidae
+773,Spectacled monarch,Symposiachrus trivirgatus,Monarch flycatchers,Passeriformes,Monarchidae
+774,Magpie-lark,Grallina cyanoleuca,Monarch flycatchers,Passeriformes,Monarchidae
+775,Frilled monarch,Arses telescophthalmus,Monarch flycatchers,Passeriformes,Monarchidae
+776,Pied monarch,Arses kaupi,Monarch flycatchers,Passeriformes,Monarchidae
+777,Yellow-breasted boatbill,Machaerirhynchus flaviventer,Monarch flycatchers,Passeriformes,Monarchidae
+778,White-winged chough,Corcorax melanorhamphos,Chough and apostlebird,Passeriformes,Corcoracidae
+779,Apostlebird,Struthidea cinerea,Chough and apostlebird,Passeriformes,Corcoracidae
+780,Trumpet manucode,Phonygammus keraudrenii,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae
+781,Paradise riflebird,Ptiloris paradiseus,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae
+782,Victoria's riflebird,Ptiloris victoriae,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae
+783,Magnificent riflebird,Ptiloris magnificus,Birds of paradise and riflebirds,Passeriformes,Paradisaeidae
+784,Jacky winter,Microeca fascinans,Australasian robins,Passeriformes,Petroicidae
+785,Lemon-bellied flycatcher,Microeca flavigaster,Australasian robins,Passeriformes,Petroicidae
+786,Yellow-legged flycatcher,Microeca griseoceps,Australasian robins,Passeriformes,Petroicidae
+787,Norfolk robin,Petroica multicolor,Australasian robins,Passeriformes,Petroicidae
+788,Scarlet robin,Petroica boodang,Australasian robins,Passeriformes,Petroicidae
+789,Red-capped robin,Petroica goodenovii,Australasian robins,Passeriformes,Petroicidae
+790,Flame robin,Petroica phoenicea,Australasian robins,Passeriformes,Petroicidae
+791,Rose robin,Petroica rosea,Australasian robins,Passeriformes,Petroicidae
+792,Pink robin,Petroica rodinogaster,Australasian robins,Passeriformes,Petroicidae
+793,Hooded robin,Melanodryas cucullata,Australasian robins,Passeriformes,Petroicidae
+794,Dusky robin,Melanodryas vittata,Australasian robins,Passeriformes,Petroicidae
+795,Pale-yellow robin,Tregellasia capito,Australasian robins,Passeriformes,Petroicidae
+796,White-faced robin,Tregellasia leucops,Australasian robins,Passeriformes,Petroicidae
+797,Eastern yellow robin,Eopsaltria australis,Australasian robins,Passeriformes,Petroicidae
+798,Western yellow robin,Eopsaltria griseogularis,Australasian robins,Passeriformes,Petroicidae
+799,White-breasted robin,Eopsaltria georgiana,Australasian robins,Passeriformes,Petroicidae
+800,Mangrove robin,Peneonanthe pulverulenta,Australasian robins,Passeriformes,Petroicidae
+801,Grey-headed robin,Heteromyias cinereifrons,Australasian robins,Passeriformes,Petroicidae
+802,White-browed robin,Poecilodryas superciliosa,Australasian robins,Passeriformes,Petroicidae
+803,Buff-sided robin,Poecilodryas cerviniventris,Australasian robins,Passeriformes,Petroicidae
+804,Northern scrub robin,Drymodes superciliaris,Australasian robins,Passeriformes,Petroicidae
+805,Southern scrub robin,Drymodes brunneopygia,Australasian robins,Passeriformes,Petroicidae
+806,Horsfield's bushlark,Mirafra javanica,Larks,Passeriformes,Alaudidae
+807,Eurasian skylark,Alauda arvensis,Larks,Passeriformes,Alaudidae
+808,Zitting cisticola,Cisticola juncidis,Cisticolas and allies,Passeriformes,Cisticolidae
+809,Golden-headed cisticola,Cisticola exilis,Cisticolas and allies,Passeriformes,Cisticolidae
+810,Australian reed warbler,Acrocephalus australis,Reed warblers,Passeriformes,Acrocephalidae
+811,Oriental reed warbler,Acrocephalus orientalis,Reed warblers,Passeriformes,Acrocephalidae
+812,Tawny grassbird,Megalurus timoriensis,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae
+813,Little grassbird,Megalurus gramineus,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae
+814,Rufous songlark,Megalurus mathewsi,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae
+815,Brown songlark,Megalurus cruralis,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae
+816,Spinifexbird,Megalurus carteri,"Grassbirds, songlarks and allies",Passeriformes,Megaluridae
+817,Christmas Island white-eye,Zosterops natalis,White-eyes,Passeriformes,Zosteropidae
+818,Pale white-eye,Zosterops citrinella,White-eyes,Passeriformes,Zosteropidae
+819,Yellow white-eye,Zosterops luteus,White-eyes,Passeriformes,Zosteropidae
+820,Silvereye,Zosterops lateralis,White-eyes,Passeriformes,Zosteropidae
+821,Robust white-eye,Zosterops strenuus,White-eyes,Passeriformes,Zosteropidae
+822,Slender-billed white-eye,Zosterops tenuirostris,White-eyes,Passeriformes,Zosteropidae
+823,White-chested white-eye,Zosterops albogularis,White-eyes,Passeriformes,Zosteropidae
+824,Middendorff's grasshopper warbler,Locustella ochotensis,Old World warblers,Passeriformes,Sylviidae
+825,Pallas's grasshopper warbler,Locustella certhiola,Old World warblers,Passeriformes,Sylviidae
+826,Arctic warbler,Phylloscopus borealis,Leaf-warblers,Passeriformes,Phylloscopidae
+827,Dusky warbler,Phylloscopus fuscatus,Leaf-warblers,Passeriformes,Phylloscopidae
+828,White-backed swallow,Cheramoeca leucosternus,Swallows,Passeriformes,Hirundinidae
+829,Barn swallow,Hirundo rustica,Swallows,Passeriformes,Hirundinidae
+830,Welcome swallow,Hirundo neoxena,Swallows,Passeriformes,Hirundinidae
+831,Fairy martin,Petrochelidon ariel,Swallows,Passeriformes,Hirundinidae
+832,Tree martin,Petrochelidon nigricans,Swallows,Passeriformes,Hirundinidae
+833,Red-rumped swallow,Cecropis daurica,Swallows,Passeriformes,Hirundinidae
+834,Asian house martin,Delichon dasypus,Swallows,Passeriformes,Hirundinidae
+835,Red-whiskered bulbul,Pycnonotus jocosus,Bulbuls,Passeriformes,Pycnonotidae
+836,Blue rock thrush,Monticola solitarius,Old World flycatchers,Passeriformes,Muscicapidae
+837,Isabelline wheatear,Oenanthe isabellina,Old World flycatchers,Passeriformes,Muscicapidae
+838,Narcissus flycatcher,Ficedula narcissina,Old World flycatchers,Passeriformes,Muscicapidae
+839,Blue-and-white flycatcher,Cyanoptila cyanomelana,Old World flycatchers,Passeriformes,Muscicapidae
+840,Dark-sided flycatcher,Muscicapa sibirica,Old World flycatchers,Passeriformes,Muscicapidae
+841,Asian brown flycatcher,Muscicapa dauurica,Old World flycatchers,Passeriformes,Muscicapidae
+842,Bassian thrush,Zoothera lunulata,Thrushes and allies,Passeriformes,Turdidae
+843,Russet-tailed thrush,Zoothera heinei,Thrushes and allies,Passeriformes,Turdidae
+844,Blackbird,Turdus merula,Thrushes and allies,Passeriformes,Turdidae
+845,Island thrush,Turdus poliocephalus,Thrushes and allies,Passeriformes,Turdidae
+846,Song thrush,Turdus philomelos,Thrushes and allies,Passeriformes,Turdidae
+847,Singing starling,Aplonis cantoroides,Starlings,Passeriformes,Sturnidae
+848,Tasman starling,Aplonis fusca,Starlings,Passeriformes,Sturnidae
+849,Metallic starling,Aplonis metallica,Starlings,Passeriformes,Sturnidae
+850,Common starling,Sturnus vulgaris,Starlings,Passeriformes,Sturnidae
+851,Daurian starling,Agropsar sturninus,Starlings,Passeriformes,Sturnidae
+852,Rosy starling,Pastor roseus,Starlings,Passeriformes,Sturnidae
+853,Common myna,Acridotheres tristis,Starlings,Passeriformes,Sturnidae
+854,Red-capped flowerpecker,Dicaeum geelvinkianum,Flowerpeckers,Passeriformes,Dicaeidae
+855,Mistletoebird,Dicaeum hirundinaceum,Flowerpeckers,Passeriformes,Dicaeidae
+856,Olive-backed sunbird,Nectarinia jugularis,Sunbirds and spiderhunters,Passeriformes,Nectariniidae
+857,Zebra finch,Taeniopygia guttata,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+858,Double-barred finch,Taeniopygia bichenovii,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+859,Long-tailed finch,Poephila acuticauda,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+860,Black-throated finch,Poephila cincta,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+861,Masked finch,Poephila personata,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+862,Crimson finch,Neochmia phaeton,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+863,Star finch,Neochmia ruficauda,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+864,Plum-headed finch,Neochmia modesta,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+865,Red-browed finch,Neochmia temporalis,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+866,Diamond firetail,Stagonopleura guttata,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+867,Beautiful firetail,Stagonopleura bella,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+868,Red-eared firetail,Stagonopleura oculata,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+869,Painted finch,Emblema pictum,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+870,Blue-faced parrotfinch,Erythrura trichroa,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+871,Gouldian finch,Erythrura gouldiae,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+872,Nutmeg mannikin,Lonchura punctulata,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+873,Pale-headed munia,Lonchura pallida,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+874,Yellow-rumped mannikin,Lonchura flaviprymna,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+875,Chestnut-breasted mannikin,Lonchura castaneothorax,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+876,Java sparrow,Lonchura oryzivora,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+877,Pictorella mannikin,Heteromunia pectoralis,"Australasian finches, firetails and waxbills",Passeriformes,Estrildidae
+878,House sparrow,Passer domesticus,Old World sparrows,Passeriformes,Passeridae
+879,Eurasian tree sparrow,Passer montanus,Old World sparrows,Passeriformes,Passeridae
+880,Australasian pipit,Anthus novaeseelandiae,Wagtails and pipits,Passeriformes,Motacillidae
+881,Red-throated pipit,Anthus cervinus,Wagtails and pipits,Passeriformes,Motacillidae
+882,Pechora pipit,Anthus gustavi,Wagtails and pipits,Passeriformes,Motacillidae
+883,Eastern yellow wagtail,Motacilla tschutschensis,Wagtails and pipits,Passeriformes,Motacillidae
+884,Green-headed yellow wagtail,Motacilla taivana,Wagtails and pipits,Passeriformes,Motacillidae
+885,Citrine wagtail,Motacilla citreola,Wagtails and pipits,Passeriformes,Motacillidae
+886,Grey wagtail,Motacilla cinerea,Wagtails and pipits,Passeriformes,Motacillidae
+887,White wagtail,Motacilla alba,Wagtails and pipits,Passeriformes,Motacillidae
+888,Common chaffinch,Fringilla coelebs,"Finches, crossbills and allies",Passeriformes,Fringillidae
+889,European goldfinch,Carduelis carduelis,"Finches, crossbills and allies",Passeriformes,Fringillidae
+890,Common redpoll,Acanthis flammea,"Finches, crossbills and allies",Passeriformes,Fringillidae
+891,European greenfinch,Chloris chloris,"Finches, crossbills and allies",Passeriformes,Fringillidae
+892,Yellowhammer,Emberiza citrinella,"Buntings, seedeaters and allies",Passeriformes,Emberizidae
